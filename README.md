@@ -15,4 +15,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 I'm currently studying at NEU.
-# 落落
+# I expect to make new friends. We can coding together and share ideas. 
