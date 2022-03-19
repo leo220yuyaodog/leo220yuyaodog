@@ -14,5 +14,5 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-I'm currently studying at NEU.
-# I expect to make new friends. We can coding together and share ideas. 
+
+
