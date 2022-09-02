@@ -6,22 +6,18 @@
 - [OSPP2022](https://summer-ospp.ac.cn/).
 
 #### 🔨 Check out my recent pull requests
-{{range recentPullRequests 5}}
-- [{{.Title}}]({{.URL}}) on [{{.Repo.Name}}]({{.Repo.URL}}) ({{humanize .CreatedAt}})
-{{- end}}
+
+- [fix: improve how to add scope when get accesstoken](https://github.com/casdoor/casdoor-website/pull/323) on [casdoor/casdoor-website](https://github.com/casdoor/casdoor-website) (1 day ago)
+- [docs: add django plugin](https://github.com/casdoor/casdoor-website/pull/314) on [casdoor/casdoor-website](https://github.com/casdoor/casdoor-website) (3 days ago)
+- [fix: update README.md](https://github.com/casdoor/django-casdoor-auth/pull/4) on [casdoor/django-casdoor-auth](https://github.com/casdoor/django-casdoor-auth) (3 days ago)
+- [feat: modify package name](https://github.com/casdoor/django-casdoor-auth/pull/3) on [casdoor/django-casdoor-auth](https://github.com/casdoor/django-casdoor-auth) (3 days ago)
+- [fix: set default value when staticBaseUrl is empty](https://github.com/casdoor/casdoor/pull/1075) on [casdoor/casdoor](https://github.com/casdoor/casdoor) (4 days ago)
 
 #### 🌱 I’m currently learning ...
 - Learning to use vim efficiently.
 - Learn Linux common conmmand.
 
-#### 📫 How to reach me: 
+#### 📫 How to reach me:
 email: 2814461814@qq.com
 
 QQ: 2814461814
-
-
-
-
-
-
-
