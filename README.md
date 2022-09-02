@@ -3,7 +3,7 @@
 ### Hi there 👋
 
 - 🔭 I’m currently working on ...
-1. OSPP summer program.
+1. [OSPP2022](https://summer-ospp.ac.cn/).
 
 - 🌱 I’m currently learning ...
 1. Learning to use vim efficiently.
