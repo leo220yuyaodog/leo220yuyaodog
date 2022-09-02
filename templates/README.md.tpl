@@ -14,7 +14,7 @@
 - Learning to use vim efficiently.
 - Learn Linux common conmmand.
 
-#### 📫 How to reach me: 
+#### 📫 How to reach me:
 email: 2814461814@qq.com
 
 QQ: 2814461814
