@@ -7,11 +7,11 @@
 
 #### 🔨 Check out my recent pull requests
 
-- [fix: improve how to add scope when get accesstoken](https://github.com/casdoor/casdoor-website/pull/323) on [casdoor/casdoor-website](https://github.com/casdoor/casdoor-website) (4 days ago)
-- [docs: add django plugin](https://github.com/casdoor/casdoor-website/pull/314) on [casdoor/casdoor-website](https://github.com/casdoor/casdoor-website) (6 days ago)
-- [fix: update README.md](https://github.com/casdoor/django-casdoor-auth/pull/4) on [casdoor/django-casdoor-auth](https://github.com/casdoor/django-casdoor-auth) (6 days ago)
-- [feat: modify package name](https://github.com/casdoor/django-casdoor-auth/pull/3) on [casdoor/django-casdoor-auth](https://github.com/casdoor/django-casdoor-auth) (6 days ago)
-- [fix: set default value when staticBaseUrl is empty](https://github.com/casdoor/casdoor/pull/1075) on [casdoor/casdoor](https://github.com/casdoor/casdoor) (1 week ago)
+- [feat: custom login form and background](https://github.com/casdoor/casdoor/pull/1107) on [casdoor/casdoor](https://github.com/casdoor/casdoor) (1 day ago)
+- [fix: improve how to add scope when get accesstoken](https://github.com/casdoor/casdoor-website/pull/323) on [casdoor/casdoor-website](https://github.com/casdoor/casdoor-website) (5 days ago)
+- [docs: add django plugin](https://github.com/casdoor/casdoor-website/pull/314) on [casdoor/casdoor-website](https://github.com/casdoor/casdoor-website) (1 week ago)
+- [fix: update README.md](https://github.com/casdoor/django-casdoor-auth/pull/4) on [casdoor/django-casdoor-auth](https://github.com/casdoor/django-casdoor-auth) (1 week ago)
+- [feat: modify package name](https://github.com/casdoor/django-casdoor-auth/pull/3) on [casdoor/django-casdoor-auth](https://github.com/casdoor/django-casdoor-auth) (1 week ago)
 
 #### 🌱 I’m currently learning ...
 - Learning to use vim efficiently.
