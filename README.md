@@ -7,8 +7,8 @@
 
 #### 🔨 Check out my recent pull requests
 
-- [feat: custom login form and background](https://github.com/casdoor/casdoor/pull/1107) on [casdoor/casdoor](https://github.com/casdoor/casdoor) (2 days ago)
-- [fix: improve how to add scope when get accesstoken](https://github.com/casdoor/casdoor-website/pull/323) on [casdoor/casdoor-website](https://github.com/casdoor/casdoor-website) (6 days ago)
+- [feat: custom login form and background](https://github.com/casdoor/casdoor/pull/1107) on [casdoor/casdoor](https://github.com/casdoor/casdoor) (3 days ago)
+- [fix: improve how to add scope when get accesstoken](https://github.com/casdoor/casdoor-website/pull/323) on [casdoor/casdoor-website](https://github.com/casdoor/casdoor-website) (1 week ago)
 - [docs: add django plugin](https://github.com/casdoor/casdoor-website/pull/314) on [casdoor/casdoor-website](https://github.com/casdoor/casdoor-website) (1 week ago)
 - [fix: update README.md](https://github.com/casdoor/django-casdoor-auth/pull/4) on [casdoor/django-casdoor-auth](https://github.com/casdoor/django-casdoor-auth) (1 week ago)
 - [feat: modify package name](https://github.com/casdoor/django-casdoor-auth/pull/3) on [casdoor/django-casdoor-auth](https://github.com/casdoor/django-casdoor-auth) (1 week ago)
