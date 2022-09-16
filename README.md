@@ -7,11 +7,11 @@
 
 #### 🔨 Check out my recent pull requests
 
-- [feat: improve login page style](https://github.com/casdoor/casdoor/pull/1119) on [casdoor/casdoor](https://github.com/casdoor/casdoor) (3 days ago)
-- [fix: import and link errer](https://github.com/casdoor/casdoor-website/pull/331) on [casdoor/casdoor-website](https://github.com/casdoor/casdoor-website) (4 days ago)
-- [feat: improve README](https://github.com/casdoor/casdoor-wechat-miniprogram-example/pull/6) on [casdoor/casdoor-wechat-miniprogram-example](https://github.com/casdoor/casdoor-wechat-miniprogram-example) (5 days ago)
-- [fix: improve Wechat miniprogram docs](https://github.com/casdoor/casdoor-website/pull/328) on [casdoor/casdoor-website](https://github.com/casdoor/casdoor-website) (5 days ago)
-- [feat: custom login form and background](https://github.com/casdoor/casdoor/pull/1107) on [casdoor/casdoor](https://github.com/casdoor/casdoor) (1 week ago)
+- [fix: demo site link and beautify loading](https://github.com/casdoor/casdoor-website/pull/339) on [casdoor/casdoor-website](https://github.com/casdoor/casdoor-website) (2 days ago)
+- [feat: improve login page style](https://github.com/casdoor/casdoor/pull/1119) on [casdoor/casdoor](https://github.com/casdoor/casdoor) (5 days ago)
+- [fix: import and link errer](https://github.com/casdoor/casdoor-website/pull/331) on [casdoor/casdoor-website](https://github.com/casdoor/casdoor-website) (6 days ago)
+- [feat: improve README](https://github.com/casdoor/casdoor-wechat-miniprogram-example/pull/6) on [casdoor/casdoor-wechat-miniprogram-example](https://github.com/casdoor/casdoor-wechat-miniprogram-example) (1 week ago)
+- [fix: improve Wechat miniprogram docs](https://github.com/casdoor/casdoor-website/pull/328) on [casdoor/casdoor-website](https://github.com/casdoor/casdoor-website) (1 week ago)
 
 #### 🌱 I’m currently learning ...
 - Learning to use vim efficiently.
