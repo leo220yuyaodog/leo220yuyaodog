@@ -7,8 +7,8 @@
 
 #### 🔨 Check out my recent pull requests
 
-- [fix: login background image display](https://github.com/casdoor/casdoor/pull/1145) on [casdoor/casdoor](https://github.com/casdoor/casdoor) (1 day ago)
-- [fix: demo site link and beautify loading](https://github.com/casdoor/casdoor-website/pull/339) on [casdoor/casdoor-website](https://github.com/casdoor/casdoor-website) (6 days ago)
+- [feat: login background image display](https://github.com/casdoor/casdoor/pull/1145) on [casdoor/casdoor](https://github.com/casdoor/casdoor) (2 days ago)
+- [fix: demo site link and beautify loading](https://github.com/casdoor/casdoor-website/pull/339) on [casdoor/casdoor-website](https://github.com/casdoor/casdoor-website) (1 week ago)
 - [feat: improve login page style](https://github.com/casdoor/casdoor/pull/1119) on [casdoor/casdoor](https://github.com/casdoor/casdoor) (1 week ago)
 - [fix: import and link errer](https://github.com/casdoor/casdoor-website/pull/331) on [casdoor/casdoor-website](https://github.com/casdoor/casdoor-website) (1 week ago)
 - [feat: improve README](https://github.com/casdoor/casdoor-wechat-miniprogram-example/pull/6) on [casdoor/casdoor-wechat-miniprogram-example](https://github.com/casdoor/casdoor-wechat-miniprogram-example) (1 week ago)
