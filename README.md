@@ -7,11 +7,11 @@
 
 #### 🔨 Check out my recent pull requests
 
-- [docs: add Single Sing-On document](https://github.com/casdoor/casdoor-website/pull/356) on [casdoor/casdoor-website](https://github.com/casdoor/casdoor-website) (2 days ago)
+- [feat: show language widget in signup and signin pages](https://github.com/leo220yuyaodog/casdoor/pull/1) on [leo220yuyaodog/casdoor](https://github.com/leo220yuyaodog/casdoor) (1 day ago)
+- [feat: show language widget in signup and signin pages](https://github.com/casdoor/casdoor/pull/1180) on [casdoor/casdoor](https://github.com/casdoor/casdoor) (1 day ago)
+- [docs: add Single Sing-On document](https://github.com/casdoor/casdoor-website/pull/356) on [casdoor/casdoor-website](https://github.com/casdoor/casdoor-website) (3 days ago)
 - [feat: add twilio SMS](https://github.com/casdoor/casdoor/pull/1159) on [casdoor/casdoor](https://github.com/casdoor/casdoor) (1 week ago)
 - [chore: add twilio logo](https://github.com/casbin/static/pull/60) on [casbin/static](https://github.com/casbin/static) (1 week ago)
-- [feat: add returnUrl in methed getMyprofileUrl](https://github.com/casdoor/casdoor-js-sdk/pull/32) on [casdoor/casdoor-js-sdk](https://github.com/casdoor/casdoor-js-sdk) (1 week ago)
-- [fix: add returnUrl for user edit page](https://github.com/casdoor/casdoor/pull/1152) on [casdoor/casdoor](https://github.com/casdoor/casdoor) (1 week ago)
 
 #### 🌱 I’m currently learning ...
 - Learning to use vim efficiently.
