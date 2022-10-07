@@ -7,11 +7,11 @@
 
 #### 🔨 Check out my recent pull requests
 
-- [feat: show language widget in signup and signin pages](https://github.com/leo220yuyaodog/casdoor/pull/1) on [leo220yuyaodog/casdoor](https://github.com/leo220yuyaodog/casdoor) (3 days ago)
-- [feat: show language widget in signup and signin pages](https://github.com/casdoor/casdoor/pull/1180) on [casdoor/casdoor](https://github.com/casdoor/casdoor) (3 days ago)
-- [docs: add Single Sing-On document](https://github.com/casdoor/casdoor-website/pull/356) on [casdoor/casdoor-website](https://github.com/casdoor/casdoor-website) (5 days ago)
+- [fix: language widget poisition without border css](https://github.com/casdoor/casdoor/pull/1188) on [casdoor/casdoor](https://github.com/casdoor/casdoor) (1 day ago)
+- [feat: show language widget in signup and signin pages](https://github.com/leo220yuyaodog/casdoor/pull/1) on [leo220yuyaodog/casdoor](https://github.com/leo220yuyaodog/casdoor) (4 days ago)
+- [feat: show language widget in signup and signin pages](https://github.com/casdoor/casdoor/pull/1180) on [casdoor/casdoor](https://github.com/casdoor/casdoor) (4 days ago)
+- [docs: add Single Sing-On document](https://github.com/casdoor/casdoor-website/pull/356) on [casdoor/casdoor-website](https://github.com/casdoor/casdoor-website) (6 days ago)
 - [feat: add twilio SMS](https://github.com/casdoor/casdoor/pull/1159) on [casdoor/casdoor](https://github.com/casdoor/casdoor) (1 week ago)
-- [chore: add twilio logo](https://github.com/casbin/static/pull/60) on [casbin/static](https://github.com/casbin/static) (1 week ago)
 
 #### 🌱 I’m currently learning ...
 - Learning to use vim efficiently.
