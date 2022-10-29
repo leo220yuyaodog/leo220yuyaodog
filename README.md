@@ -7,11 +7,11 @@
 
 #### 🔨 Check out my recent pull requests
 
-- [feat: fix showing wrong error message: &#34;Please sign in first&#34;](https://github.com/casdoor/casdoor/pull/1245) on [casdoor/casdoor](https://github.com/casdoor/casdoor) (1 day ago)
-- [fix: fix duplicated user bug in user list page](https://github.com/casdoor/casdoor/pull/1243) on [casdoor/casdoor](https://github.com/casdoor/casdoor) (1 day ago)
-- [docs: add login ui customization tutorial](https://github.com/casdoor/casdoor-website/pull/379) on [casdoor/casdoor-website](https://github.com/casdoor/casdoor-website) (4 days ago)
+- [feat: fix showing wrong error message: &#34;Please sign in first&#34;](https://github.com/casdoor/casdoor/pull/1245) on [casdoor/casdoor](https://github.com/casdoor/casdoor) (2 days ago)
+- [fix: fix duplicated user bug in user list page](https://github.com/casdoor/casdoor/pull/1243) on [casdoor/casdoor](https://github.com/casdoor/casdoor) (2 days ago)
+- [docs: add login ui customization tutorial](https://github.com/casdoor/casdoor-website/pull/379) on [casdoor/casdoor-website](https://github.com/casdoor/casdoor-website) (5 days ago)
 - [feat: add left-side image and improve login page](https://github.com/casdoor/casdoor/pull/1226) on [casdoor/casdoor](https://github.com/casdoor/casdoor) (1 week ago)
-- [feat: tutorial and comparison of ways to connect Casdoor](https://github.com/casdoor/casdoor-website/pull/370) on [casdoor/casdoor-website](https://github.com/casdoor/casdoor-website) (1 week ago)
+- [feat: tutorial and comparison of ways to connect Casdoor](https://github.com/casdoor/casdoor-website/pull/370) on [casdoor/casdoor-website](https://github.com/casdoor/casdoor-website) (2 weeks ago)
 
 #### 🌱 I’m currently learning ...
 - Learning to use vim efficiently.
