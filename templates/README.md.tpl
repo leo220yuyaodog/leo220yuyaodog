@@ -3,7 +3,7 @@
 ### Hi there, I'm Yuyaodong(于耀东)👋
 🖋 Blog：[windsparkle](https://blog.windsparkle.top)
 #### 🔭 I’m currently working on ...
-- [OSPP2022](https://summer-ospp.ac.cn/).
+- [Talent2022](https://github.com/casbin/Talent2022).
 
 #### 🔨 Check out my recent pull requests
 {{range recentPullRequests 5}}
@@ -12,9 +12,8 @@
 
 #### 🌱 I’m currently learning ...
 - Learning to use vim efficiently.
-- Learn Linux common conmmand.
+- Learning the distribute system.
 
 #### 📫 How to reach me:
 email: 2814461814@qq.com
-
 QQ: 2814461814
