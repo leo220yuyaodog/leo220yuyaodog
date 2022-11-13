@@ -7,11 +7,11 @@
 
 #### 🔨 Check out my recent pull requests
 
-- [feat: fix empty organization in adapter edit page](https://github.com/casdoor/casdoor/pull/1274) on [casdoor/casdoor](https://github.com/casdoor/casdoor) (4 days ago)
-- [fix: fix typo](https://github.com/casdoor/casdoor/pull/1264) on [casdoor/casdoor](https://github.com/casdoor/casdoor) (6 days ago)
+- [feat: manager applications in organization scope](https://github.com/casdoor/casdoor/pull/1290) on [casdoor/casdoor](https://github.com/casdoor/casdoor) (1 day ago)
+- [feat: fix empty organization in adapter edit page](https://github.com/casdoor/casdoor/pull/1274) on [casdoor/casdoor](https://github.com/casdoor/casdoor) (5 days ago)
+- [fix: fix typo](https://github.com/casdoor/casdoor/pull/1264) on [casdoor/casdoor](https://github.com/casdoor/casdoor) (1 week ago)
 - [docs: improve storage provider document](https://github.com/casdoor/casdoor-website/pull/386) on [casdoor/casdoor-website](https://github.com/casdoor/casdoor-website) (1 week ago)
 - [feat: support prefix path for storage files](https://github.com/casdoor/casdoor/pull/1258) on [casdoor/casdoor](https://github.com/casdoor/casdoor) (1 week ago)
-- [New](https://github.com/leo220yuyaodog/questionnaire/pull/19) on [leo220yuyaodog/questionnaire](https://github.com/leo220yuyaodog/questionnaire) (1 week ago)
 
 #### 🌱 I’m currently learning ...
 - Learning to use vim efficiently.
