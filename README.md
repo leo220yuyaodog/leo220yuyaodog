@@ -7,11 +7,11 @@
 
 #### 🔨 Check out my recent pull requests
 
-- [Dev active](https://github.com/leo220yuyaodog/questionnaire/pull/24) on [leo220yuyaodog/questionnaire](https://github.com/leo220yuyaodog/questionnaire) (2 days ago)
-- [fix: illegal user when new a permission](https://github.com/casdoor/casdoor/pull/1298) on [casdoor/casdoor](https://github.com/casdoor/casdoor) (3 days ago)
-- [Dev active](https://github.com/leo220yuyaodog/questionnaire/pull/23) on [leo220yuyaodog/questionnaire](https://github.com/leo220yuyaodog/questionnaire) (3 days ago)
-- [feat: manager applications in organization scope](https://github.com/casdoor/casdoor/pull/1290) on [casdoor/casdoor](https://github.com/casdoor/casdoor) (6 days ago)
-- [feat: fix empty organization in adapter edit page](https://github.com/casdoor/casdoor/pull/1274) on [casdoor/casdoor](https://github.com/casdoor/casdoor) (1 week ago)
+- [feat: Specify optional languages](https://github.com/casdoor/casdoor/pull/1306) on [casdoor/casdoor](https://github.com/casdoor/casdoor) (1 day ago)
+- [Dev active](https://github.com/leo220yuyaodog/questionnaire/pull/24) on [leo220yuyaodog/questionnaire](https://github.com/leo220yuyaodog/questionnaire) (3 days ago)
+- [fix: illegal user when new a permission](https://github.com/casdoor/casdoor/pull/1298) on [casdoor/casdoor](https://github.com/casdoor/casdoor) (4 days ago)
+- [Dev active](https://github.com/leo220yuyaodog/questionnaire/pull/23) on [leo220yuyaodog/questionnaire](https://github.com/leo220yuyaodog/questionnaire) (4 days ago)
+- [feat: manager applications in organization scope](https://github.com/casdoor/casdoor/pull/1290) on [casdoor/casdoor](https://github.com/casdoor/casdoor) (1 week ago)
 
 #### 🌱 I’m currently learning ...
 - Learning to use vim efficiently.
