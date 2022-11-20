@@ -7,10 +7,10 @@
 
 #### 🔨 Check out my recent pull requests
 
-- [feat: Specify optional languages](https://github.com/casdoor/casdoor/pull/1306) on [casdoor/casdoor](https://github.com/casdoor/casdoor) (1 day ago)
-- [Dev active](https://github.com/leo220yuyaodog/questionnaire/pull/24) on [leo220yuyaodog/questionnaire](https://github.com/leo220yuyaodog/questionnaire) (3 days ago)
-- [fix: illegal user when new a permission](https://github.com/casdoor/casdoor/pull/1298) on [casdoor/casdoor](https://github.com/casdoor/casdoor) (4 days ago)
-- [Dev active](https://github.com/leo220yuyaodog/questionnaire/pull/23) on [leo220yuyaodog/questionnaire](https://github.com/leo220yuyaodog/questionnaire) (4 days ago)
+- [feat: can specify available UI languages for an organization](https://github.com/casdoor/casdoor/pull/1306) on [casdoor/casdoor](https://github.com/casdoor/casdoor) (2 days ago)
+- [Dev active](https://github.com/leo220yuyaodog/questionnaire/pull/24) on [leo220yuyaodog/questionnaire](https://github.com/leo220yuyaodog/questionnaire) (4 days ago)
+- [fix: illegal user when new a permission](https://github.com/casdoor/casdoor/pull/1298) on [casdoor/casdoor](https://github.com/casdoor/casdoor) (5 days ago)
+- [Dev active](https://github.com/leo220yuyaodog/questionnaire/pull/23) on [leo220yuyaodog/questionnaire](https://github.com/leo220yuyaodog/questionnaire) (5 days ago)
 - [feat: manager applications in organization scope](https://github.com/casdoor/casdoor/pull/1290) on [casdoor/casdoor](https://github.com/casdoor/casdoor) (1 week ago)
 
 #### 🌱 I’m currently learning ...
