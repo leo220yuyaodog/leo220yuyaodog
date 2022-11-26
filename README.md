@@ -7,11 +7,11 @@
 
 #### 🔨 Check out my recent pull requests
 
-- [fix: admin upload user avatar for itself](https://github.com/casdoor/casdoor/pull/1323) on [casdoor/casdoor](https://github.com/casdoor/casdoor) (1 day ago)
-- [feat: finish policy list management](https://github.com/casdoor/casdoor/pull/1317) on [casdoor/casdoor](https://github.com/casdoor/casdoor) (2 days ago)
-- [feat: can specify available UI languages for an organization](https://github.com/casdoor/casdoor/pull/1306) on [casdoor/casdoor](https://github.com/casdoor/casdoor) (1 week ago)
-- [Dev active](https://github.com/leo220yuyaodog/questionnaire/pull/24) on [leo220yuyaodog/questionnaire](https://github.com/leo220yuyaodog/questionnaire) (1 week ago)
-- [fix: illegal user when new a permission](https://github.com/casdoor/casdoor/pull/1298) on [casdoor/casdoor](https://github.com/casdoor/casdoor) (1 week ago)
+- [fix: fail to return after flush the page](https://github.com/casdoor/casdoor/pull/1325) on [casdoor/casdoor](https://github.com/casdoor/casdoor) (1 day ago)
+- [feat: return the history page after saving the account](https://github.com/casbin/casnode/pull/558) on [casbin/casnode](https://github.com/casbin/casnode) (1 day ago)
+- [fix: fix wrong parameter of return_url](https://github.com/casdoor/casdoor-js-sdk/pull/33) on [casdoor/casdoor-js-sdk](https://github.com/casdoor/casdoor-js-sdk) (1 day ago)
+- [fix: fix wrong parameter of return_url](https://github.com/casdoor/casdoor/pull/1324) on [casdoor/casdoor](https://github.com/casdoor/casdoor) (1 day ago)
+- [feat: fix the bug that admin cannot upload avatar for other users](https://github.com/casdoor/casdoor/pull/1323) on [casdoor/casdoor](https://github.com/casdoor/casdoor) (2 days ago)
 
 #### 🌱 I’m currently learning ...
 - Learning to use vim efficiently.
