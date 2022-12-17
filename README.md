@@ -7,10 +7,10 @@
 
 #### 🔨 Check out my recent pull requests
 
-- [docs: add appgate use casdoor as saml idp](https://github.com/casdoor/casdoor-website/pull/418) on [casdoor/casdoor-website](https://github.com/casdoor/casdoor-website) (2 days ago)
-- [feat: add post methed for saml response](https://github.com/casdoor/casdoor/pull/1399) on [casdoor/casdoor](https://github.com/casdoor/casdoor) (3 days ago)
-- [fix: the link button with disabled style but can click](https://github.com/casdoor/casdoor/pull/1390) on [casdoor/casdoor](https://github.com/casdoor/casdoor) (6 days ago)
-- [feat: init score in organization](https://github.com/casdoor/casdoor/pull/1388) on [casdoor/casdoor](https://github.com/casdoor/casdoor) (6 days ago)
+- [docs: add appgate use casdoor as saml idp](https://github.com/casdoor/casdoor-website/pull/418) on [casdoor/casdoor-website](https://github.com/casdoor/casdoor-website) (3 days ago)
+- [feat: add post methed for saml response](https://github.com/casdoor/casdoor/pull/1399) on [casdoor/casdoor](https://github.com/casdoor/casdoor) (4 days ago)
+- [fix: the link button with disabled style but can click](https://github.com/casdoor/casdoor/pull/1390) on [casdoor/casdoor](https://github.com/casdoor/casdoor) (1 week ago)
+- [feat: init score in organization](https://github.com/casdoor/casdoor/pull/1388) on [casdoor/casdoor](https://github.com/casdoor/casdoor) (1 week ago)
 - [feat: fix showing wrong error messages](https://github.com/casdoor/casdoor/pull/1385) on [casdoor/casdoor](https://github.com/casdoor/casdoor) (1 week ago)
 
 #### 🌱 I’m currently learning ...
