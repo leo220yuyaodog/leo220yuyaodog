@@ -7,10 +7,10 @@
 
 #### 🔨 Check out my recent pull requests
 
-- [feat: add EntryPage for login, signup pages to fix background flashing issue](https://github.com/casdoor/casdoor/pull/1416) on [casdoor/casdoor](https://github.com/casdoor/casdoor) (1 day ago)
-- [docs: improve connect with SAML](https://github.com/casdoor/casdoor-website/pull/424) on [casdoor/casdoor-website](https://github.com/casdoor/casdoor-website) (3 days ago)
-- [fix: fix undefined owner bug in AdapterEditPage](https://github.com/casdoor/casdoor/pull/1406) on [casdoor/casdoor](https://github.com/casdoor/casdoor) (5 days ago)
-- [feat: now dingtalk OAuth returns all error messages to frontend](https://github.com/casdoor/casdoor/pull/1405) on [casdoor/casdoor](https://github.com/casdoor/casdoor) (5 days ago)
+- [feat: add EntryPage for login, signup pages to fix background flashing issue](https://github.com/casdoor/casdoor/pull/1416) on [casdoor/casdoor](https://github.com/casdoor/casdoor) (2 days ago)
+- [docs: improve connect with SAML](https://github.com/casdoor/casdoor-website/pull/424) on [casdoor/casdoor-website](https://github.com/casdoor/casdoor-website) (4 days ago)
+- [fix: fix undefined owner bug in AdapterEditPage](https://github.com/casdoor/casdoor/pull/1406) on [casdoor/casdoor](https://github.com/casdoor/casdoor) (6 days ago)
+- [feat: now dingtalk OAuth returns all error messages to frontend](https://github.com/casdoor/casdoor/pull/1405) on [casdoor/casdoor](https://github.com/casdoor/casdoor) (6 days ago)
 - [docs: add appgate use casdoor as saml idp](https://github.com/casdoor/casdoor-website/pull/418) on [casdoor/casdoor-website](https://github.com/casdoor/casdoor-website) (1 week ago)
 
 #### 🌱 I’m currently learning ...
