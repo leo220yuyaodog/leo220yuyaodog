@@ -7,11 +7,11 @@
 
 #### 🔨 Check out my recent pull requests
 
-- [fix: show background image in preview](https://github.com/casdoor/casdoor/pull/1425) on [casdoor/casdoor](https://github.com/casdoor/casdoor) (2 days ago)
-- [feat: fix the bug that spin is always showing when response error](https://github.com/casdoor/casdoor/pull/1424) on [casdoor/casdoor](https://github.com/casdoor/casdoor) (2 days ago)
-- [feat: fix the bug that spin in oauth is always showing](https://github.com/casdoor/casdoor/pull/1421) on [casdoor/casdoor](https://github.com/casdoor/casdoor) (3 days ago)
-- [feat: add EntryPage for login, signup pages to fix background flashing issue](https://github.com/casdoor/casdoor/pull/1416) on [casdoor/casdoor](https://github.com/casdoor/casdoor) (5 days ago)
-- [docs: improve connect with SAML](https://github.com/casdoor/casdoor-website/pull/424) on [casdoor/casdoor-website](https://github.com/casdoor/casdoor-website) (1 week ago)
+- [fix: image](https://github.com/casdoor/casdoor-website/pull/426) on [casdoor/casdoor-website](https://github.com/casdoor/casdoor-website) (1 day ago)
+- [fix: show background image in preview](https://github.com/casdoor/casdoor/pull/1425) on [casdoor/casdoor](https://github.com/casdoor/casdoor) (3 days ago)
+- [feat: fix the bug that spin is always showing when response error](https://github.com/casdoor/casdoor/pull/1424) on [casdoor/casdoor](https://github.com/casdoor/casdoor) (3 days ago)
+- [feat: fix the bug that spin in oauth is always showing](https://github.com/casdoor/casdoor/pull/1421) on [casdoor/casdoor](https://github.com/casdoor/casdoor) (4 days ago)
+- [feat: add EntryPage for login, signup pages to fix background flashing issue](https://github.com/casdoor/casdoor/pull/1416) on [casdoor/casdoor](https://github.com/casdoor/casdoor) (6 days ago)
 
 #### 🌱 I’m currently learning ...
 - Learning to use vim efficiently.
