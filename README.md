@@ -7,11 +7,11 @@
 
 #### 🔨 Check out my recent pull requests
 
-- [feat: edit user properties](https://github.com/casdoor/casdoor/pull/1435) on [casdoor/casdoor](https://github.com/casdoor/casdoor) (3 days ago)
+- [fix: destroy session after delete user](https://github.com/casdoor/casdoor/pull/1441) on [casdoor/casdoor](https://github.com/casdoor/casdoor) (1 day ago)
+- [feat: edit user properties](https://github.com/casdoor/casdoor/pull/1435) on [casdoor/casdoor](https://github.com/casdoor/casdoor) (4 days ago)
 - [fix: image](https://github.com/casdoor/casdoor-website/pull/426) on [casdoor/casdoor-website](https://github.com/casdoor/casdoor-website) (1 week ago)
 - [fix: show background image in preview](https://github.com/casdoor/casdoor/pull/1425) on [casdoor/casdoor](https://github.com/casdoor/casdoor) (1 week ago)
 - [feat: fix the bug that spin is always showing when response error](https://github.com/casdoor/casdoor/pull/1424) on [casdoor/casdoor](https://github.com/casdoor/casdoor) (1 week ago)
-- [feat: fix the bug that spin in oauth is always showing](https://github.com/casdoor/casdoor/pull/1421) on [casdoor/casdoor](https://github.com/casdoor/casdoor) (1 week ago)
 
 #### 🌱 I’m currently learning ...
 - Learning to use vim efficiently.
