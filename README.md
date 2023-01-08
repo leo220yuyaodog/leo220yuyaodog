@@ -7,8 +7,8 @@
 
 #### 🔨 Check out my recent pull requests
 
-- [feat: fix saml login failed by using oauth](https://github.com/casdoor/casdoor/pull/1443) on [casdoor/casdoor](https://github.com/casdoor/casdoor) (4 days ago)
-- [feat: destroy session after delete user](https://github.com/casdoor/casdoor/pull/1441) on [casdoor/casdoor](https://github.com/casdoor/casdoor) (5 days ago)
+- [feat: fix saml login failed by using oauth](https://github.com/casdoor/casdoor/pull/1443) on [casdoor/casdoor](https://github.com/casdoor/casdoor) (5 days ago)
+- [feat: destroy session after delete user](https://github.com/casdoor/casdoor/pull/1441) on [casdoor/casdoor](https://github.com/casdoor/casdoor) (6 days ago)
 - [feat: edit user properties](https://github.com/casdoor/casdoor/pull/1435) on [casdoor/casdoor](https://github.com/casdoor/casdoor) (1 week ago)
 - [fix: image](https://github.com/casdoor/casdoor-website/pull/426) on [casdoor/casdoor-website](https://github.com/casdoor/casdoor-website) (1 week ago)
 - [fix: show background image in preview](https://github.com/casdoor/casdoor/pull/1425) on [casdoor/casdoor](https://github.com/casdoor/casdoor) (2 weeks ago)
