@@ -7,8 +7,8 @@
 
 #### 🔨 Check out my recent pull requests
 
-- [docs: update jenkins oidc](https://github.com/casdoor/casdoor-website/pull/428) on [casdoor/casdoor-website](https://github.com/casdoor/casdoor-website) (1 day ago)
-- [feat: fix saml login failed by using oauth](https://github.com/casdoor/casdoor/pull/1443) on [casdoor/casdoor](https://github.com/casdoor/casdoor) (6 days ago)
+- [docs: update jenkins oidc](https://github.com/casdoor/casdoor-website/pull/428) on [casdoor/casdoor-website](https://github.com/casdoor/casdoor-website) (2 days ago)
+- [feat: fix saml login failed by using oauth](https://github.com/casdoor/casdoor/pull/1443) on [casdoor/casdoor](https://github.com/casdoor/casdoor) (1 week ago)
 - [feat: destroy session after delete user](https://github.com/casdoor/casdoor/pull/1441) on [casdoor/casdoor](https://github.com/casdoor/casdoor) (1 week ago)
 - [feat: edit user properties](https://github.com/casdoor/casdoor/pull/1435) on [casdoor/casdoor](https://github.com/casdoor/casdoor) (1 week ago)
 - [fix: image](https://github.com/casdoor/casdoor-website/pull/426) on [casdoor/casdoor-website](https://github.com/casdoor/casdoor-website) (2 weeks ago)
