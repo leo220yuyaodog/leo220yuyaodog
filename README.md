@@ -7,11 +7,11 @@
 
 #### 🔨 Check out my recent pull requests
 
-- [docs: update jenkins oidc](https://github.com/casdoor/casdoor-website/pull/428) on [casdoor/casdoor-website](https://github.com/casdoor/casdoor-website) (2 days ago)
+- [feat: check uniqueness for email and phone when updating user](https://github.com/casdoor/casdoor/pull/1461) on [casdoor/casdoor](https://github.com/casdoor/casdoor) (1 day ago)
+- [docs: update jenkins oidc](https://github.com/casdoor/casdoor-website/pull/428) on [casdoor/casdoor-website](https://github.com/casdoor/casdoor-website) (3 days ago)
 - [feat: fix saml login failed by using oauth](https://github.com/casdoor/casdoor/pull/1443) on [casdoor/casdoor](https://github.com/casdoor/casdoor) (1 week ago)
 - [feat: destroy session after delete user](https://github.com/casdoor/casdoor/pull/1441) on [casdoor/casdoor](https://github.com/casdoor/casdoor) (1 week ago)
 - [feat: edit user properties](https://github.com/casdoor/casdoor/pull/1435) on [casdoor/casdoor](https://github.com/casdoor/casdoor) (1 week ago)
-- [fix: image](https://github.com/casdoor/casdoor-website/pull/426) on [casdoor/casdoor-website](https://github.com/casdoor/casdoor-website) (2 weeks ago)
 
 #### 🌱 I’m currently learning ...
 - Learning to use vim efficiently.
