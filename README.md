@@ -7,11 +7,11 @@
 
 #### 🔨 Check out my recent pull requests
 
-- [feat: improve Select component performance](https://github.com/casdoor/casdoor/pull/1472) on [casdoor/casdoor](https://github.com/casdoor/casdoor) (2 days ago)
-- [feat: disable role and permission update and checks when updating user](https://github.com/casdoor/casdoor/pull/1466) on [casdoor/casdoor](https://github.com/casdoor/casdoor) (3 days ago)
-- [feat: auto link accounts with the same email](https://github.com/casdoor/casdoor/pull/1464) on [casdoor/casdoor](https://github.com/casdoor/casdoor) (3 days ago)
-- [feat: improve user edit page to fix missing fields and page crash](https://github.com/casdoor/casdoor/pull/1463) on [casdoor/casdoor](https://github.com/casdoor/casdoor) (3 days ago)
-- [feat: check uniqueness for email and phone when updating user](https://github.com/casdoor/casdoor/pull/1461) on [casdoor/casdoor](https://github.com/casdoor/casdoor) (4 days ago)
+- [feat: fix compatibility issue between Casbin request and model](https://github.com/casdoor/casdoor/pull/1478) on [casdoor/casdoor](https://github.com/casdoor/casdoor) (1 day ago)
+- [feat: improve Select component performance](https://github.com/casdoor/casdoor/pull/1472) on [casdoor/casdoor](https://github.com/casdoor/casdoor) (3 days ago)
+- [feat: disable role and permission update and checks when updating user](https://github.com/casdoor/casdoor/pull/1466) on [casdoor/casdoor](https://github.com/casdoor/casdoor) (4 days ago)
+- [feat: auto link accounts with the same email](https://github.com/casdoor/casdoor/pull/1464) on [casdoor/casdoor](https://github.com/casdoor/casdoor) (4 days ago)
+- [feat: improve user edit page to fix missing fields and page crash](https://github.com/casdoor/casdoor/pull/1463) on [casdoor/casdoor](https://github.com/casdoor/casdoor) (4 days ago)
 
 #### 🌱 I’m currently learning ...
 - Learning to use vim efficiently.
