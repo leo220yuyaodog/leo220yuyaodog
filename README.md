@@ -7,9 +7,9 @@
 
 #### 🔨 Check out my recent pull requests
 
-- [feat: add theme picker background img](https://github.com/casbin/static/pull/64) on [casbin/static](https://github.com/casbin/static) (1 day ago)
-- [feat: support customize theme](https://github.com/casdoor/casdoor/pull/1500) on [casdoor/casdoor](https://github.com/casdoor/casdoor) (2 days ago)
-- [chore: 自动创建和迁移数据库，完善gorm模型tag定义](https://github.com/CCpro10/micro_douyin/pull/1) on [CCpro10/micro_douyin](https://github.com/CCpro10/micro_douyin) (1 week ago)
+- [feat: add theme picker background img](https://github.com/casbin/static/pull/64) on [casbin/static](https://github.com/casbin/static) (2 days ago)
+- [feat: support customize theme](https://github.com/casdoor/casdoor/pull/1500) on [casdoor/casdoor](https://github.com/casdoor/casdoor) (3 days ago)
+- [chore: 自动创建和迁移数据库，完善gorm模型tag定义](https://github.com/CCpro10/micro_douyin/pull/1) on [CCpro10/micro_douyin](https://github.com/CCpro10/micro_douyin) (2 weeks ago)
 - [feat: fix compatibility issue between Casbin request and model](https://github.com/casdoor/casdoor/pull/1478) on [casdoor/casdoor](https://github.com/casdoor/casdoor) (2 weeks ago)
 - [feat: improve Select component performance](https://github.com/casdoor/casdoor/pull/1472) on [casdoor/casdoor](https://github.com/casdoor/casdoor) (2 weeks ago)
 
