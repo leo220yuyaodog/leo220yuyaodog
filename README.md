@@ -3,7 +3,7 @@
 ### Hi there, I'm Yuyaodong(于耀东)👋
 🖋 Blog：[windsparkle](https://blog.windsparkle.top)
 #### 🔭 I’m currently working on ...
-- [Talent2022](https://github.com/casbin/Talent2022).
+- Prepare for 2024 postgraduate entrance exam.
 
 #### 🔨 Check out my recent pull requests
 
@@ -14,8 +14,8 @@
 - [feat: fix application edit page crash and language icon position](https://github.com/casdoor/casdoor/pull/1511) on [casdoor/casdoor](https://github.com/casdoor/casdoor) (1 week ago)
 
 #### 🌱 I’m currently learning ...
-- Learning to use vim efficiently.
 - Learning the distribute system.
+- Learning [MIT6.S081](https://pdos.csail.mit.edu/6.828/2021/schedule.html)
 
 #### 📫 How to reach me:
 email: 2814461814@qq.com
