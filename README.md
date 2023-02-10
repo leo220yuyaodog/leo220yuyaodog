@@ -7,9 +7,9 @@
 
 #### 🔨 Check out my recent pull requests
 
-- [chore: unify migrate database way](https://github.com/casdoor/casdoor/pull/1530) on [casdoor/casdoor](https://github.com/casdoor/casdoor) (today)
-- [docs: add customize theme docs](https://github.com/casdoor/casdoor-website/pull/435) on [casdoor/casdoor-website](https://github.com/casdoor/casdoor-website) (3 days ago)
-- [feat: 支持配置使用多种云存储和本地存储](https://github.com/CCpro10/micro_douyin/pull/2) on [CCpro10/micro_douyin](https://github.com/CCpro10/micro_douyin) (5 days ago)
+- [chore: unify migrate database way](https://github.com/casdoor/casdoor/pull/1530) on [casdoor/casdoor](https://github.com/casdoor/casdoor) (1 day ago)
+- [docs: add customize theme docs](https://github.com/casdoor/casdoor-website/pull/435) on [casdoor/casdoor-website](https://github.com/casdoor/casdoor-website) (4 days ago)
+- [feat: 支持配置使用多种云存储和本地存储](https://github.com/CCpro10/micro_douyin/pull/2) on [CCpro10/micro_douyin](https://github.com/CCpro10/micro_douyin) (6 days ago)
 - [refactor: improve code reuse rate](https://github.com/casdoor/casdoor/pull/1515) on [casdoor/casdoor](https://github.com/casdoor/casdoor) (1 week ago)
 - [fix: table do not have unique key](https://github.com/casdoor/casdoor/pull/1512) on [casdoor/casdoor](https://github.com/casdoor/casdoor) (1 week ago)
 
