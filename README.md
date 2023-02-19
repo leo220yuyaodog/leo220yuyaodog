@@ -7,11 +7,11 @@
 
 #### 🔨 Check out my recent pull requests
 
-- [refactor: improve function and name](https://github.com/casdoor/casdoor/pull/1559) on [casdoor/casdoor](https://github.com/casdoor/casdoor) (3 days ago)
-- [feat: support multiple country codes for sending SMS](https://github.com/casdoor/casdoor/pull/1557) on [casdoor/casdoor](https://github.com/casdoor/casdoor) (3 days ago)
-- [fix: session Id error](https://github.com/casdoor/casdoor/pull/1554) on [casdoor/casdoor](https://github.com/casdoor/casdoor) (5 days ago)
-- [feat: fix CAS login crash bug](https://github.com/casdoor/casdoor/pull/1549) on [casdoor/casdoor](https://github.com/casdoor/casdoor) (5 days ago)
-- [fix: region don&#39;t display in userEditPage](https://github.com/casdoor/casdoor/pull/1544) on [casdoor/casdoor](https://github.com/casdoor/casdoor) (6 days ago)
+- [fix: migrator_1_245_0_PR_1557](https://github.com/casdoor/casdoor/pull/1571) on [casdoor/casdoor](https://github.com/casdoor/casdoor) (1 day ago)
+- [feat: fix migrator_1_245_0_PR_1557.go](https://github.com/casdoor/casdoor/pull/1564) on [casdoor/casdoor](https://github.com/casdoor/casdoor) (1 day ago)
+- [fix: refactor functions and code](https://github.com/casdoor/casdoor/pull/1559) on [casdoor/casdoor](https://github.com/casdoor/casdoor) (4 days ago)
+- [feat: support multiple country codes for sending SMS](https://github.com/casdoor/casdoor/pull/1557) on [casdoor/casdoor](https://github.com/casdoor/casdoor) (4 days ago)
+- [fix: session Id error](https://github.com/casdoor/casdoor/pull/1554) on [casdoor/casdoor](https://github.com/casdoor/casdoor) (6 days ago)
 
 #### 🌱 I’m currently learning ...
 - Learning the distribute system.
