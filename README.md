@@ -7,11 +7,11 @@
 
 #### 🔨 Check out my recent pull requests
 
-- [feat: improve saml idp err message](https://github.com/casdoor/casdoor/pull/1584) on [casdoor/casdoor](https://github.com/casdoor/casdoor) (2 days ago)
-- [fix: init name is inconsistent with frontend](https://github.com/casdoor/casdoor/pull/1583) on [casdoor/casdoor](https://github.com/casdoor/casdoor) (2 days ago)
-- [feat: fix resetting email and phone bug](https://github.com/casdoor/casdoor/pull/1579) on [casdoor/casdoor](https://github.com/casdoor/casdoor) (3 days ago)
-- [feat: handle aliyun SMS response error](https://github.com/casdoor/casdoor/pull/1577) on [casdoor/casdoor](https://github.com/casdoor/casdoor) (5 days ago)
-- [fix: handle aliyun SMS response error](https://github.com/casdoor/go-sms-sender/pull/15) on [casdoor/go-sms-sender](https://github.com/casdoor/go-sms-sender) (5 days ago)
+- [feat: improve saml idp err message](https://github.com/casdoor/casdoor/pull/1584) on [casdoor/casdoor](https://github.com/casdoor/casdoor) (3 days ago)
+- [fix: init name is inconsistent with frontend](https://github.com/casdoor/casdoor/pull/1583) on [casdoor/casdoor](https://github.com/casdoor/casdoor) (3 days ago)
+- [feat: fix resetting email and phone bug](https://github.com/casdoor/casdoor/pull/1579) on [casdoor/casdoor](https://github.com/casdoor/casdoor) (4 days ago)
+- [feat: handle aliyun SMS response error](https://github.com/casdoor/casdoor/pull/1577) on [casdoor/casdoor](https://github.com/casdoor/casdoor) (6 days ago)
+- [fix: handle aliyun SMS response error](https://github.com/casdoor/go-sms-sender/pull/15) on [casdoor/go-sms-sender](https://github.com/casdoor/go-sms-sender) (6 days ago)
 
 #### 🌱 I’m currently learning ...
 - Learning the distribute system.
