@@ -7,11 +7,11 @@
 
 #### 🔨 Check out my recent pull requests
 
-- [fix: fix bug form country code init error](https://github.com/casdoor/casdoor/pull/1591) on [casdoor/casdoor](https://github.com/casdoor/casdoor) (2 days ago)
-- [feat: fix bug that signup country code is undefined](https://github.com/casdoor/casdoor/pull/1590) on [casdoor/casdoor](https://github.com/casdoor/casdoor) (2 days ago)
-- [feat: improve saml idp err message](https://github.com/casdoor/casdoor/pull/1584) on [casdoor/casdoor](https://github.com/casdoor/casdoor) (5 days ago)
-- [fix: init name is inconsistent with frontend](https://github.com/casdoor/casdoor/pull/1583) on [casdoor/casdoor](https://github.com/casdoor/casdoor) (5 days ago)
-- [feat: fix resetting email and phone bug](https://github.com/casdoor/casdoor/pull/1579) on [casdoor/casdoor](https://github.com/casdoor/casdoor) (6 days ago)
+- [fix: empty countryCode of current account causes crash](https://github.com/casdoor/casdoor/pull/1603) on [casdoor/casdoor](https://github.com/casdoor/casdoor) (1 day ago)
+- [feat: refactor reset password api and forgetPage.js](https://github.com/casdoor/casdoor/pull/1601) on [casdoor/casdoor](https://github.com/casdoor/casdoor) (1 day ago)
+- [fix: fix bug form country code init error](https://github.com/casdoor/casdoor/pull/1591) on [casdoor/casdoor](https://github.com/casdoor/casdoor) (3 days ago)
+- [feat: fix bug that signup country code is undefined](https://github.com/casdoor/casdoor/pull/1590) on [casdoor/casdoor](https://github.com/casdoor/casdoor) (3 days ago)
+- [feat: improve saml idp err message](https://github.com/casdoor/casdoor/pull/1584) on [casdoor/casdoor](https://github.com/casdoor/casdoor) (6 days ago)
 
 #### 🌱 I’m currently learning ...
 - Learning the distribute system.
