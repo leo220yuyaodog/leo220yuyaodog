@@ -7,11 +7,11 @@
 
 #### 🔨 Check out my recent pull requests
 
-- [feat: fix CSS where polyfill to support Safari 13 below browsers](https://github.com/casdoor/casdoor/pull/1605) on [casdoor/casdoor](https://github.com/casdoor/casdoor) (3 days ago)
-- [fix: empty countryCode of current account causes crash](https://github.com/casdoor/casdoor/pull/1603) on [casdoor/casdoor](https://github.com/casdoor/casdoor) (4 days ago)
-- [feat: refactor reset password api and forgetPage.js](https://github.com/casdoor/casdoor/pull/1601) on [casdoor/casdoor](https://github.com/casdoor/casdoor) (4 days ago)
-- [fix: fix bug form country code init error](https://github.com/casdoor/casdoor/pull/1591) on [casdoor/casdoor](https://github.com/casdoor/casdoor) (6 days ago)
-- [feat: fix bug that signup country code is undefined](https://github.com/casdoor/casdoor/pull/1590) on [casdoor/casdoor](https://github.com/casdoor/casdoor) (6 days ago)
+- [feat: fix empty value of countryCode for signup](https://github.com/casdoor/casdoor/pull/1620) on [casdoor/casdoor](https://github.com/casdoor/casdoor) (1 day ago)
+- [feat: support all captcha for login](https://github.com/casdoor/casdoor/pull/1619) on [casdoor/casdoor](https://github.com/casdoor/casdoor) (1 day ago)
+- [feat: fix CSS where polyfill to support Safari 13 below browsers](https://github.com/casdoor/casdoor/pull/1605) on [casdoor/casdoor](https://github.com/casdoor/casdoor) (4 days ago)
+- [fix: empty countryCode of current account causes crash](https://github.com/casdoor/casdoor/pull/1603) on [casdoor/casdoor](https://github.com/casdoor/casdoor) (5 days ago)
+- [feat: refactor reset password api and forgetPage.js](https://github.com/casdoor/casdoor/pull/1601) on [casdoor/casdoor](https://github.com/casdoor/casdoor) (5 days ago)
 
 #### 🌱 I’m currently learning ...
 - Learning the distribute system.
