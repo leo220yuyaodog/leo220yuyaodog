@@ -7,11 +7,11 @@
 
 #### 🔨 Check out my recent pull requests
 
-- [refactor: simplify ldap backend code and improve frontend operation](https://github.com/casdoor/casdoor/pull/1640) on [casdoor/casdoor](https://github.com/casdoor/casdoor) (1 day ago)
-- [feat: fix LDAP page crash](https://github.com/casdoor/casdoor/pull/1630) on [casdoor/casdoor](https://github.com/casdoor/casdoor) (4 days ago)
-- [fix: correct error handling of check permission result](https://github.com/casdoor/casdoor/pull/1628) on [casdoor/casdoor](https://github.com/casdoor/casdoor) (5 days ago)
-- [fix: handle aliyun captcha error](https://github.com/casdoor/casdoor/pull/1624) on [casdoor/casdoor](https://github.com/casdoor/casdoor) (6 days ago)
-- [feat: fix empty value of countryCode for signup](https://github.com/casdoor/casdoor/pull/1620) on [casdoor/casdoor](https://github.com/casdoor/casdoor) (1 week ago)
+- [docs: improve idap configuration description](https://github.com/casdoor/casdoor-website/pull/442) on [casdoor/casdoor-website](https://github.com/casdoor/casdoor-website) (1 day ago)
+- [feat: refactor LDAP backend code and improve frontend operation](https://github.com/casdoor/casdoor/pull/1640) on [casdoor/casdoor](https://github.com/casdoor/casdoor) (2 days ago)
+- [feat: fix LDAP page crash](https://github.com/casdoor/casdoor/pull/1630) on [casdoor/casdoor](https://github.com/casdoor/casdoor) (5 days ago)
+- [fix: correct error handling of check permission result](https://github.com/casdoor/casdoor/pull/1628) on [casdoor/casdoor](https://github.com/casdoor/casdoor) (6 days ago)
+- [fix: handle aliyun captcha error](https://github.com/casdoor/casdoor/pull/1624) on [casdoor/casdoor](https://github.com/casdoor/casdoor) (1 week ago)
 
 #### 🌱 I’m currently learning ...
 - Learning the distribute system.
