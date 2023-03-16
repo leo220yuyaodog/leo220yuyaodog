@@ -7,11 +7,11 @@
 
 #### 🔨 Check out my recent pull requests
 
-- [feat: support TLS connect of ldap](https://github.com/casdoor/casdoor/pull/1655) on [casdoor/casdoor](https://github.com/casdoor/casdoor) (today)
-- [feat: use GetUserCount to optimize login performance](https://github.com/casdoor/casdoor/pull/1653) on [casdoor/casdoor](https://github.com/casdoor/casdoor) (1 day ago)
-- [feat: can send Aliyun test SMS now](https://github.com/casdoor/casdoor/pull/1651) on [casdoor/casdoor](https://github.com/casdoor/casdoor) (2 days ago)
-- [docs: improve idap configuration description](https://github.com/casdoor/casdoor-website/pull/442) on [casdoor/casdoor-website](https://github.com/casdoor/casdoor-website) (3 days ago)
-- [feat: refactor LDAP backend code and improve frontend operation](https://github.com/casdoor/casdoor/pull/1640) on [casdoor/casdoor](https://github.com/casdoor/casdoor) (4 days ago)
+- [feat: improve verification error translation](https://github.com/casdoor/casdoor/pull/1660) on [casdoor/casdoor](https://github.com/casdoor/casdoor) (1 day ago)
+- [feat: support LDAP with SSL/TLS enabled](https://github.com/casdoor/casdoor/pull/1655) on [casdoor/casdoor](https://github.com/casdoor/casdoor) (1 day ago)
+- [feat: use GetUserCount to optimize login performance](https://github.com/casdoor/casdoor/pull/1653) on [casdoor/casdoor](https://github.com/casdoor/casdoor) (2 days ago)
+- [feat: can send Aliyun test SMS now](https://github.com/casdoor/casdoor/pull/1651) on [casdoor/casdoor](https://github.com/casdoor/casdoor) (3 days ago)
+- [docs: improve idap configuration description](https://github.com/casdoor/casdoor-website/pull/442) on [casdoor/casdoor-website](https://github.com/casdoor/casdoor-website) (4 days ago)
 
 #### 🌱 I’m currently learning ...
 - Learning the distribute system.
