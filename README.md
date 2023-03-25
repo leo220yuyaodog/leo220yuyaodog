@@ -7,11 +7,11 @@
 
 #### 🔨 Check out my recent pull requests
 
-- [feat: fix bug that login by saml provider can not find application](https://github.com/casdoor/casdoor/pull/1676) on [casdoor/casdoor](https://github.com/casdoor/casdoor) (2 days ago)
+- [fix: adjust error result position](https://github.com/casdoor/casdoor/pull/1683) on [casdoor/casdoor](https://github.com/casdoor/casdoor) (1 day ago)
+- [feat: fix the bug that autoSignin generates two callback AJAX calls](https://github.com/casdoor/casdoor/pull/1682) on [casdoor/casdoor](https://github.com/casdoor/casdoor) (1 day ago)
+- [feat: fix bug that login by saml provider can not find application](https://github.com/casdoor/casdoor/pull/1676) on [casdoor/casdoor](https://github.com/casdoor/casdoor) (3 days ago)
 - [fix: remove duplicate signin successfully message](https://github.com/casbin/casnode/pull/571) on [casbin/casnode](https://github.com/casbin/casnode) (1 week ago)
 - [fix: online user can not be updated](https://github.com/casbin/casnode/pull/570) on [casbin/casnode](https://github.com/casbin/casnode) (1 week ago)
-- [feat: improve verification error translation](https://github.com/casdoor/casdoor/pull/1660) on [casdoor/casdoor](https://github.com/casdoor/casdoor) (1 week ago)
-- [feat: support LDAP with SSL/TLS enabled](https://github.com/casdoor/casdoor/pull/1655) on [casdoor/casdoor](https://github.com/casdoor/casdoor) (1 week ago)
 
 #### 🌱 I’m currently learning ...
 - Learning the distribute system.
