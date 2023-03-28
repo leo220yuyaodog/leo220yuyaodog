@@ -7,11 +7,11 @@
 
 #### 🔨 Check out my recent pull requests
 
-- [feat: [SAML &#43; long button crash] fix `Disabling &#34;Enable password&#34; leads to white app page when SAML provider is active`](https://github.com/casdoor/casdoor/pull/1691) on [casdoor/casdoor](https://github.com/casdoor/casdoor) (1 day ago)
-- [feat: refactor agreement modal and create folders to classify components](https://github.com/casdoor/casdoor/pull/1686) on [casdoor/casdoor](https://github.com/casdoor/casdoor) (1 day ago)
-- [fix: adjust error result position](https://github.com/casdoor/casdoor/pull/1683) on [casdoor/casdoor](https://github.com/casdoor/casdoor) (3 days ago)
-- [feat: fix the bug that autoSignin generates two callback AJAX calls](https://github.com/casdoor/casdoor/pull/1682) on [casdoor/casdoor](https://github.com/casdoor/casdoor) (3 days ago)
-- [feat: fix bug that login by saml provider can not find application](https://github.com/casdoor/casdoor/pull/1676) on [casdoor/casdoor](https://github.com/casdoor/casdoor) (5 days ago)
+- [feat: fix phone validation bug in signup page](https://github.com/casdoor/casdoor/pull/1693) on [casdoor/casdoor](https://github.com/casdoor/casdoor) (1 day ago)
+- [feat: [SAML &#43; long button crash] fix `Disabling &#34;Enable password&#34; leads to white app page when SAML provider is active`](https://github.com/casdoor/casdoor/pull/1691) on [casdoor/casdoor](https://github.com/casdoor/casdoor) (2 days ago)
+- [feat: refactor agreement modal and create folders to classify components](https://github.com/casdoor/casdoor/pull/1686) on [casdoor/casdoor](https://github.com/casdoor/casdoor) (2 days ago)
+- [fix: adjust error result position](https://github.com/casdoor/casdoor/pull/1683) on [casdoor/casdoor](https://github.com/casdoor/casdoor) (4 days ago)
+- [feat: fix the bug that autoSignin generates two callback AJAX calls](https://github.com/casdoor/casdoor/pull/1682) on [casdoor/casdoor](https://github.com/casdoor/casdoor) (4 days ago)
 
 #### 🌱 I’m currently learning ...
 - Learning the distribute system.
