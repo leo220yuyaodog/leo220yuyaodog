@@ -7,11 +7,11 @@
 
 #### 🔨 Check out my recent pull requests
 
-- [feat: fix incorrect cas signup link](https://github.com/casdoor/casdoor/pull/1755) on [casdoor/casdoor](https://github.com/casdoor/casdoor) (1 day ago)
-- [fix: improve LDAP page UI](https://github.com/casdoor/casdoor/pull/1749) on [casdoor/casdoor](https://github.com/casdoor/casdoor) (2 days ago)
-- [feat: handle error when parsing samlResponse](https://github.com/casdoor/casdoor/pull/1744) on [casdoor/casdoor](https://github.com/casdoor/casdoor) (4 days ago)
-- [fix: improve composing](https://github.com/apache/dubbo-website/pull/2545) on [apache/dubbo-website](https://github.com/apache/dubbo-website) (5 days ago)
-- [docs: add LDAP configuration description](https://github.com/casdoor/casdoor-website/pull/457) on [casdoor/casdoor-website](https://github.com/casdoor/casdoor-website) (5 days ago)
+- [fix: wrong signup router](https://github.com/casdoor/casdoor/pull/1762) on [casdoor/casdoor](https://github.com/casdoor/casdoor) (1 day ago)
+- [feat: rollback antd to v5.2.3 to fix application edit page crash](https://github.com/casdoor/casdoor/pull/1755) on [casdoor/casdoor](https://github.com/casdoor/casdoor) (2 days ago)
+- [fix: improve LDAP page UI](https://github.com/casdoor/casdoor/pull/1749) on [casdoor/casdoor](https://github.com/casdoor/casdoor) (3 days ago)
+- [feat: handle error when parsing samlResponse](https://github.com/casdoor/casdoor/pull/1744) on [casdoor/casdoor](https://github.com/casdoor/casdoor) (5 days ago)
+- [fix: improve composing](https://github.com/apache/dubbo-website/pull/2545) on [apache/dubbo-website](https://github.com/apache/dubbo-website) (6 days ago)
 
 #### 🌱 I’m currently learning ...
 - Learning the distribute system.
