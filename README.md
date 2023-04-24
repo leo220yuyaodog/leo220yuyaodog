@@ -7,10 +7,10 @@
 
 #### 🔨 Check out my recent pull requests
 
-- [feat: fix bug that can not get application in signup/oauth/ router](https://github.com/casdoor/casdoor/pull/1766) on [casdoor/casdoor](https://github.com/casdoor/casdoor) (3 days ago)
-- [feat: fix wrong CAS login mode](https://github.com/casdoor/casdoor/pull/1762) on [casdoor/casdoor](https://github.com/casdoor/casdoor) (4 days ago)
-- [feat: rollback antd to v5.2.3 to fix application edit page crash](https://github.com/casdoor/casdoor/pull/1755) on [casdoor/casdoor](https://github.com/casdoor/casdoor) (5 days ago)
-- [fix: improve LDAP page UI](https://github.com/casdoor/casdoor/pull/1749) on [casdoor/casdoor](https://github.com/casdoor/casdoor) (6 days ago)
+- [feat: fix bug that can not get application in signup/oauth/ router](https://github.com/casdoor/casdoor/pull/1766) on [casdoor/casdoor](https://github.com/casdoor/casdoor) (4 days ago)
+- [feat: fix wrong CAS login mode](https://github.com/casdoor/casdoor/pull/1762) on [casdoor/casdoor](https://github.com/casdoor/casdoor) (5 days ago)
+- [feat: rollback antd to v5.2.3 to fix application edit page crash](https://github.com/casdoor/casdoor/pull/1755) on [casdoor/casdoor](https://github.com/casdoor/casdoor) (6 days ago)
+- [fix: improve LDAP page UI](https://github.com/casdoor/casdoor/pull/1749) on [casdoor/casdoor](https://github.com/casdoor/casdoor) (1 week ago)
 - [feat: handle error when parsing samlResponse](https://github.com/casdoor/casdoor/pull/1744) on [casdoor/casdoor](https://github.com/casdoor/casdoor) (1 week ago)
 
 #### 🌱 I’m currently learning ...
