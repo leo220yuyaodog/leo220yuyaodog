@@ -7,10 +7,10 @@
 
 #### 🔨 Check out my recent pull requests
 
-- [feat: fix function CheckAccountItemModifyRule](https://github.com/casdoor/casdoor/pull/1789) on [casdoor/casdoor](https://github.com/casdoor/casdoor) (2 days ago)
-- [feat: refactor out form package and optimize verification code module](https://github.com/casdoor/casdoor/pull/1787) on [casdoor/casdoor](https://github.com/casdoor/casdoor) (3 days ago)
-- [fix: signup page of the app-built-in failed to load](https://github.com/casdoor/casdoor/pull/1785) on [casdoor/casdoor](https://github.com/casdoor/casdoor) (3 days ago)
-- [docs: add Casdoor SSO protocol ideas](https://github.com/casbin/Summer2023/pull/8) on [casbin/Summer2023](https://github.com/casbin/Summer2023) (4 days ago)
+- [feat: fix function CheckAccountItemModifyRule](https://github.com/casdoor/casdoor/pull/1789) on [casdoor/casdoor](https://github.com/casdoor/casdoor) (3 days ago)
+- [feat: refactor out form package and optimize verification code module](https://github.com/casdoor/casdoor/pull/1787) on [casdoor/casdoor](https://github.com/casdoor/casdoor) (4 days ago)
+- [fix: signup page of the app-built-in failed to load](https://github.com/casdoor/casdoor/pull/1785) on [casdoor/casdoor](https://github.com/casdoor/casdoor) (4 days ago)
+- [docs: add Casdoor SSO protocol ideas](https://github.com/casbin/Summer2023/pull/8) on [casbin/Summer2023](https://github.com/casbin/Summer2023) (5 days ago)
 - [feat: fix bug that can not get application in signup/oauth/ router](https://github.com/casdoor/casdoor/pull/1766) on [casdoor/casdoor](https://github.com/casdoor/casdoor) (1 week ago)
 
 #### 🌱 I’m currently learning ...
