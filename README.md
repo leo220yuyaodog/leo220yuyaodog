@@ -7,11 +7,11 @@
 
 #### 🔨 Check out my recent pull requests
 
+- [feat: improve determination about whether dest is mail or phone and mask props](https://github.com/casdoor/casdoor/pull/1814) on [casdoor/casdoor](https://github.com/casdoor/casdoor) (1 day ago)
+- [docs: add MFA document](https://github.com/casdoor/casdoor-website/pull/472) on [casdoor/casdoor-website](https://github.com/casdoor/casdoor-website) (1 day ago)
 - [feat: add multi-factor authentication (MFA) feature](https://github.com/casdoor/casdoor/pull/1800) on [casdoor/casdoor](https://github.com/casdoor/casdoor) (1 week ago)
 - [feat: fix function CheckAccountItemModifyRule](https://github.com/casdoor/casdoor/pull/1789) on [casdoor/casdoor](https://github.com/casdoor/casdoor) (1 week ago)
 - [feat: refactor out form package and optimize verification code module](https://github.com/casdoor/casdoor/pull/1787) on [casdoor/casdoor](https://github.com/casdoor/casdoor) (1 week ago)
-- [fix: signup page of the app-built-in failed to load](https://github.com/casdoor/casdoor/pull/1785) on [casdoor/casdoor](https://github.com/casdoor/casdoor) (1 week ago)
-- [docs: add Casdoor SSO protocol ideas](https://github.com/casbin/Summer2023/pull/8) on [casbin/Summer2023](https://github.com/casbin/Summer2023) (1 week ago)
 
 #### 🌱 I’m currently learning ...
 - Learning the distribute system.
