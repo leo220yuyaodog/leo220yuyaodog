@@ -7,7 +7,7 @@
 
 #### 🔨 Check out my recent pull requests
 
-- [feat: support forced binding MFA after login](https://github.com/casdoor/casdoor/pull/1845) on [casdoor/casdoor](https://github.com/casdoor/casdoor) (1 day ago)
+- [feat: support forced binding MFA after login](https://github.com/casdoor/casdoor/pull/1845) on [casdoor/casdoor](https://github.com/casdoor/casdoor) (2 days ago)
 - [feat: improve determination about whether dest is mail or phone and mask props](https://github.com/casdoor/casdoor/pull/1814) on [casdoor/casdoor](https://github.com/casdoor/casdoor) (1 week ago)
 - [docs: add MFA document](https://github.com/casdoor/casdoor-website/pull/472) on [casdoor/casdoor-website](https://github.com/casdoor/casdoor-website) (1 week ago)
 - [feat: add multi-factor authentication (MFA) feature](https://github.com/casdoor/casdoor/pull/1800) on [casdoor/casdoor](https://github.com/casdoor/casdoor) (2 weeks ago)
