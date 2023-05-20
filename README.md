@@ -7,11 +7,11 @@
 
 #### 🔨 Check out my recent pull requests
 
-- [feat: compatible different uid of LDAP server](https://github.com/casdoor/casdoor/pull/1860) on [casdoor/casdoor](https://github.com/casdoor/casdoor) (1 day ago)
-- [fix: fix incorrect LDAP sync status](https://github.com/casdoor/casdoor/pull/1859) on [casdoor/casdoor](https://github.com/casdoor/casdoor) (1 day ago)
-- [docs: add manage MFA items document](https://github.com/casdoor/casdoor-website/pull/481) on [casdoor/casdoor-website](https://github.com/casdoor/casdoor-website) (1 day ago)
-- [feat: support forced binding MFA after login](https://github.com/casdoor/casdoor/pull/1845) on [casdoor/casdoor](https://github.com/casdoor/casdoor) (3 days ago)
-- [feat: improve determination about whether dest is mail or phone and mask props](https://github.com/casdoor/casdoor/pull/1814) on [casdoor/casdoor](https://github.com/casdoor/casdoor) (1 week ago)
+- [feat: fix UI in IE11](https://github.com/casdoor/casdoor/pull/1871) on [casdoor/casdoor](https://github.com/casdoor/casdoor) (1 day ago)
+- [fix: add sAMAccountName for AD search](https://github.com/casdoor/casdoor/pull/1869) on [casdoor/casdoor](https://github.com/casdoor/casdoor) (1 day ago)
+- [fix: sdk user is not Global Admin](https://github.com/casdoor/casdoor/pull/1868) on [casdoor/casdoor](https://github.com/casdoor/casdoor) (1 day ago)
+- [feat: compatible different uid of LDAP server](https://github.com/casdoor/casdoor/pull/1860) on [casdoor/casdoor](https://github.com/casdoor/casdoor) (2 days ago)
+- [fix: fix incorrect LDAP sync status](https://github.com/casdoor/casdoor/pull/1859) on [casdoor/casdoor](https://github.com/casdoor/casdoor) (2 days ago)
 
 #### 🌱 I’m currently learning ...
 - Learning the distribute system.
