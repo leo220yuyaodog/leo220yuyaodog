@@ -7,11 +7,11 @@
 
 #### 🔨 Check out my recent pull requests
 
-- [fix: set initial value in CountryCodeSelect](https://github.com/casdoor/casdoor/pull/1890) on [casdoor/casdoor](https://github.com/casdoor/casdoor) (1 day ago)
-- [feat: fix MFA page bug in OAuth login](https://github.com/casdoor/casdoor/pull/1889) on [casdoor/casdoor](https://github.com/casdoor/casdoor) (1 day ago)
-- [feat: fix UI in IE11](https://github.com/casdoor/casdoor/pull/1878) on [casdoor/casdoor](https://github.com/casdoor/casdoor) (3 days ago)
-- [feat: fix UI in IE11](https://github.com/casdoor/casdoor/pull/1871) on [casdoor/casdoor](https://github.com/casdoor/casdoor) (6 days ago)
-- [fix: add sAMAccountName for AD search](https://github.com/casdoor/casdoor/pull/1869) on [casdoor/casdoor](https://github.com/casdoor/casdoor) (6 days ago)
+- [fix: fix bug about updating parent component value in CountryCodeSelect](https://github.com/casdoor/casdoor/pull/1891) on [casdoor/casdoor](https://github.com/casdoor/casdoor) (1 day ago)
+- [fix: set initial value in CountryCodeSelect](https://github.com/casdoor/casdoor/pull/1890) on [casdoor/casdoor](https://github.com/casdoor/casdoor) (2 days ago)
+- [feat: fix MFA page bug in OAuth login](https://github.com/casdoor/casdoor/pull/1889) on [casdoor/casdoor](https://github.com/casdoor/casdoor) (2 days ago)
+- [feat: fix UI in IE11](https://github.com/casdoor/casdoor/pull/1878) on [casdoor/casdoor](https://github.com/casdoor/casdoor) (4 days ago)
+- [feat: fix UI in IE11](https://github.com/casdoor/casdoor/pull/1871) on [casdoor/casdoor](https://github.com/casdoor/casdoor) (1 week ago)
 
 #### 🌱 I’m currently learning ...
 - Learning the distribute system.
