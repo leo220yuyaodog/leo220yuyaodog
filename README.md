@@ -7,11 +7,11 @@
 
 #### 🔨 Check out my recent pull requests
 
-- [docs: update Exposed Casbin APIs](https://github.com/casdoor/casdoor-website/pull/492) on [casdoor/casdoor-website](https://github.com/casdoor/casdoor-website) (2 days ago)
-- [chore: add swagger of enforce api](https://github.com/casdoor/casdoor/pull/1931) on [casdoor/casdoor](https://github.com/casdoor/casdoor) (2 days ago)
-- [fix: handle error of list in frontend](https://github.com/casdoor/casdoor/pull/1930) on [casdoor/casdoor](https://github.com/casdoor/casdoor) (3 days ago)
-- [feat: fix error without setting syner](https://github.com/casdoor/casdoor/pull/1925) on [casdoor/casdoor](https://github.com/casdoor/casdoor) (3 days ago)
-- [feat: fix the bug that sycner does not initialize](https://github.com/casdoor/casdoor/pull/1924) on [casdoor/casdoor](https://github.com/casdoor/casdoor) (4 days ago)
+- [docs: update Exposed Casbin APIs](https://github.com/casdoor/casdoor-website/pull/492) on [casdoor/casdoor-website](https://github.com/casdoor/casdoor-website) (3 days ago)
+- [chore: add swagger of enforce api](https://github.com/casdoor/casdoor/pull/1931) on [casdoor/casdoor](https://github.com/casdoor/casdoor) (3 days ago)
+- [fix: handle error of list in frontend](https://github.com/casdoor/casdoor/pull/1930) on [casdoor/casdoor](https://github.com/casdoor/casdoor) (4 days ago)
+- [feat: fix error without setting syner](https://github.com/casdoor/casdoor/pull/1925) on [casdoor/casdoor](https://github.com/casdoor/casdoor) (4 days ago)
+- [feat: fix the bug that sycner does not initialize](https://github.com/casdoor/casdoor/pull/1924) on [casdoor/casdoor](https://github.com/casdoor/casdoor) (5 days ago)
 
 #### 🌱 I’m currently learning ...
 - Learning the distribute system.
