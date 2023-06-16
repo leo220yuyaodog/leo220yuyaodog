@@ -7,8 +7,8 @@
 
 #### 🔨 Check out my recent pull requests
 
-- [feat: fix incorrect VerifyTypePhone value](https://github.com/casdoor/casdoor/pull/1968) on [casdoor/casdoor](https://github.com/casdoor/casdoor) (2 days ago)
-- [feat: complete group tree](https://github.com/casdoor/casdoor/pull/1967) on [casdoor/casdoor](https://github.com/casdoor/casdoor) (3 days ago)
+- [feat: fix incorrect VerifyTypePhone value](https://github.com/casdoor/casdoor/pull/1968) on [casdoor/casdoor](https://github.com/casdoor/casdoor) (3 days ago)
+- [feat: complete group tree](https://github.com/casdoor/casdoor/pull/1967) on [casdoor/casdoor](https://github.com/casdoor/casdoor) (4 days ago)
 - [docs: update Exposed Casbin APIs](https://github.com/casdoor/casdoor-website/pull/492) on [casdoor/casdoor-website](https://github.com/casdoor/casdoor-website) (1 week ago)
 - [chore: add swagger of enforce api](https://github.com/casdoor/casdoor/pull/1931) on [casdoor/casdoor](https://github.com/casdoor/casdoor) (1 week ago)
 - [fix: handle error of list in frontend](https://github.com/casdoor/casdoor/pull/1930) on [casdoor/casdoor](https://github.com/casdoor/casdoor) (1 week ago)
