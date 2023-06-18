@@ -7,11 +7,11 @@
 
 #### 🔨 Check out my recent pull requests
 
-- [docs: add organization tree &amp; group docs](https://github.com/casdoor/casdoor-website/pull/495) on [casdoor/casdoor-website](https://github.com/casdoor/casdoor-website) (1 day ago)
-- [feat: fix bug that users in role don&#39;t work for permissions](https://github.com/casdoor/casdoor/pull/1977) on [casdoor/casdoor](https://github.com/casdoor/casdoor) (1 day ago)
-- [feat: fix incorrect VerifyTypePhone value](https://github.com/casdoor/casdoor/pull/1968) on [casdoor/casdoor](https://github.com/casdoor/casdoor) (4 days ago)
-- [feat: complete group tree](https://github.com/casdoor/casdoor/pull/1967) on [casdoor/casdoor](https://github.com/casdoor/casdoor) (5 days ago)
-- [docs: update Exposed Casbin APIs](https://github.com/casdoor/casdoor-website/pull/492) on [casdoor/casdoor-website](https://github.com/casdoor/casdoor-website) (1 week ago)
+- [docs: add organization tree &amp; group docs](https://github.com/casdoor/casdoor-website/pull/495) on [casdoor/casdoor-website](https://github.com/casdoor/casdoor-website) (2 days ago)
+- [feat: fix bug that users in role don&#39;t work for permissions](https://github.com/casdoor/casdoor/pull/1977) on [casdoor/casdoor](https://github.com/casdoor/casdoor) (2 days ago)
+- [feat: fix incorrect VerifyTypePhone value](https://github.com/casdoor/casdoor/pull/1968) on [casdoor/casdoor](https://github.com/casdoor/casdoor) (5 days ago)
+- [feat: complete group tree](https://github.com/casdoor/casdoor/pull/1967) on [casdoor/casdoor](https://github.com/casdoor/casdoor) (6 days ago)
+- [docs: update Exposed Casbin APIs](https://github.com/casdoor/casdoor-website/pull/492) on [casdoor/casdoor-website](https://github.com/casdoor/casdoor-website) (2 weeks ago)
 
 #### 🌱 I’m currently learning ...
 - Learning the distribute system.
