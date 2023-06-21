@@ -7,10 +7,10 @@
 
 #### 🔨 Check out my recent pull requests
 
-- [feat: deprecate the user group relation table](https://github.com/casdoor/casdoor/pull/1990) on [casdoor/casdoor](https://github.com/casdoor/casdoor) (1 day ago)
-- [fix: Deprecate the id field in group](https://github.com/casdoor/casdoor/pull/1987) on [casdoor/casdoor](https://github.com/casdoor/casdoor) (2 days ago)
-- [docs: add organization tree &amp; group docs](https://github.com/casdoor/casdoor-website/pull/495) on [casdoor/casdoor-website](https://github.com/casdoor/casdoor-website) (4 days ago)
-- [feat: fix bug that users in role don&#39;t work for permissions](https://github.com/casdoor/casdoor/pull/1977) on [casdoor/casdoor](https://github.com/casdoor/casdoor) (4 days ago)
+- [feat: deprecate the user group relation table](https://github.com/casdoor/casdoor/pull/1990) on [casdoor/casdoor](https://github.com/casdoor/casdoor) (2 days ago)
+- [fix: Deprecate the id field in group](https://github.com/casdoor/casdoor/pull/1987) on [casdoor/casdoor](https://github.com/casdoor/casdoor) (3 days ago)
+- [docs: add organization tree &amp; group docs](https://github.com/casdoor/casdoor-website/pull/495) on [casdoor/casdoor-website](https://github.com/casdoor/casdoor-website) (5 days ago)
+- [feat: fix bug that users in role don&#39;t work for permissions](https://github.com/casdoor/casdoor/pull/1977) on [casdoor/casdoor](https://github.com/casdoor/casdoor) (5 days ago)
 - [feat: fix incorrect VerifyTypePhone value](https://github.com/casdoor/casdoor/pull/1968) on [casdoor/casdoor](https://github.com/casdoor/casdoor) (1 week ago)
 
 #### 🌱 I’m currently learning ...
