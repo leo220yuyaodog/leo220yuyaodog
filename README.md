@@ -7,9 +7,9 @@
 
 #### 🔨 Check out my recent pull requests
 
-- [fix: refactor the idp and regex code](https://github.com/casdoor/casdoor/pull/2030) on [casdoor/casdoor](https://github.com/casdoor/casdoor) (1 day ago)
-- [feat: support custom user mapping](https://github.com/casdoor/casdoor/pull/2029) on [casdoor/casdoor](https://github.com/casdoor/casdoor) (1 day ago)
-- [docs: add TOTP multi-factor-authentication](https://github.com/casdoor/casdoor-website/pull/500) on [casdoor/casdoor-website](https://github.com/casdoor/casdoor-website) (5 days ago)
+- [fix: refactor the idp and regex code](https://github.com/casdoor/casdoor/pull/2030) on [casdoor/casdoor](https://github.com/casdoor/casdoor) (2 days ago)
+- [feat: support custom user mapping](https://github.com/casdoor/casdoor/pull/2029) on [casdoor/casdoor](https://github.com/casdoor/casdoor) (2 days ago)
+- [docs: add TOTP multi-factor-authentication](https://github.com/casdoor/casdoor-website/pull/500) on [casdoor/casdoor-website](https://github.com/casdoor/casdoor-website) (6 days ago)
 - [feat: add TOTP multi-factor authentication](https://github.com/casdoor/casdoor/pull/2014) on [casdoor/casdoor](https://github.com/casdoor/casdoor) (1 week ago)
 - [docs: update multi-factor-authentication.md](https://github.com/casdoor/casdoor-website/pull/499) on [casdoor/casdoor-website](https://github.com/casdoor/casdoor-website) (1 week ago)
 
