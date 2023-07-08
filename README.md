@@ -7,7 +7,7 @@
 
 #### 🔨 Check out my recent pull requests
 
-- [fix: prompt mfa binding](https://github.com/casdoor/casdoor/pull/2033) on [casdoor/casdoor](https://github.com/casdoor/casdoor) (5 days ago)
+- [feat: fix bugs in MFA](https://github.com/casdoor/casdoor/pull/2033) on [casdoor/casdoor](https://github.com/casdoor/casdoor) (6 days ago)
 - [fix: refactor the idp and regex code](https://github.com/casdoor/casdoor/pull/2030) on [casdoor/casdoor](https://github.com/casdoor/casdoor) (1 week ago)
 - [feat: support custom user mapping](https://github.com/casdoor/casdoor/pull/2029) on [casdoor/casdoor](https://github.com/casdoor/casdoor) (1 week ago)
 - [docs: add TOTP multi-factor-authentication](https://github.com/casdoor/casdoor-website/pull/500) on [casdoor/casdoor-website](https://github.com/casdoor/casdoor-website) (1 week ago)
