@@ -7,11 +7,11 @@
 
 #### 🔨 Check out my recent pull requests
 
-- [feat: fix bugs in MFA](https://github.com/casdoor/casdoor/pull/2033) on [casdoor/casdoor](https://github.com/casdoor/casdoor) (6 days ago)
+- [fix: fix state after mfa is enabled](https://github.com/casdoor/casdoor/pull/2050) on [casdoor/casdoor](https://github.com/casdoor/casdoor) (1 day ago)
+- [docs: update Manage Multi-Factor authentication items.md](https://github.com/casdoor/casdoor-website/pull/507) on [casdoor/casdoor-website](https://github.com/casdoor/casdoor-website) (1 day ago)
+- [feat: fix bugs in MFA](https://github.com/casdoor/casdoor/pull/2033) on [casdoor/casdoor](https://github.com/casdoor/casdoor) (1 week ago)
 - [fix: refactor the idp and regex code](https://github.com/casdoor/casdoor/pull/2030) on [casdoor/casdoor](https://github.com/casdoor/casdoor) (1 week ago)
 - [feat: support custom user mapping](https://github.com/casdoor/casdoor/pull/2029) on [casdoor/casdoor](https://github.com/casdoor/casdoor) (1 week ago)
-- [docs: add TOTP multi-factor-authentication](https://github.com/casdoor/casdoor-website/pull/500) on [casdoor/casdoor-website](https://github.com/casdoor/casdoor-website) (1 week ago)
-- [feat: add TOTP multi-factor authentication](https://github.com/casdoor/casdoor/pull/2014) on [casdoor/casdoor](https://github.com/casdoor/casdoor) (2 weeks ago)
 
 #### 🌱 I’m currently learning ...
 - Learning the distribute system.
