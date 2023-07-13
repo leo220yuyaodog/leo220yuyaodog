@@ -7,11 +7,11 @@
 
 #### 🔨 Check out my recent pull requests
 
-- [fix: init groups modify rule with admin](https://github.com/casdoor/casdoor/pull/2054) on [casdoor/casdoor](https://github.com/casdoor/casdoor) (2 days ago)
-- [fix: fix state after mfa is enabled](https://github.com/casdoor/casdoor/pull/2050) on [casdoor/casdoor](https://github.com/casdoor/casdoor) (4 days ago)
-- [docs: update Manage Multi-Factor authentication items.md](https://github.com/casdoor/casdoor-website/pull/507) on [casdoor/casdoor-website](https://github.com/casdoor/casdoor-website) (4 days ago)
+- [fix: init groups modify rule with admin](https://github.com/casdoor/casdoor/pull/2054) on [casdoor/casdoor](https://github.com/casdoor/casdoor) (3 days ago)
+- [fix: fix state after mfa is enabled](https://github.com/casdoor/casdoor/pull/2050) on [casdoor/casdoor](https://github.com/casdoor/casdoor) (5 days ago)
+- [docs: update Manage Multi-Factor authentication items.md](https://github.com/casdoor/casdoor-website/pull/507) on [casdoor/casdoor-website](https://github.com/casdoor/casdoor-website) (5 days ago)
 - [feat: fix bugs in MFA](https://github.com/casdoor/casdoor/pull/2033) on [casdoor/casdoor](https://github.com/casdoor/casdoor) (1 week ago)
-- [fix: refactor the idp and regex code](https://github.com/casdoor/casdoor/pull/2030) on [casdoor/casdoor](https://github.com/casdoor/casdoor) (1 week ago)
+- [fix: refactor the idp and regex code](https://github.com/casdoor/casdoor/pull/2030) on [casdoor/casdoor](https://github.com/casdoor/casdoor) (2 weeks ago)
 
 #### 🌱 I’m currently learning ...
 - Learning the distribute system.
