@@ -7,11 +7,11 @@
 
 #### 🔨 Check out my recent pull requests
 
-- [feat: fix bug that themeEditor can not load saved theme data](https://github.com/casdoor/casdoor/pull/2085) on [casdoor/casdoor](https://github.com/casdoor/casdoor) (1 day ago)
-- [fix: hidden bug of &#34;like&#34; query](https://github.com/casdoor/casdoor/pull/2082) on [casdoor/casdoor](https://github.com/casdoor/casdoor) (2 days ago)
+- [fix: check group name cannot be same as organization name](https://github.com/casdoor/casdoor/pull/2090) on [casdoor/casdoor](https://github.com/casdoor/casdoor) (today)
+- [feat: fix bug that themeEditor can not load saved theme data](https://github.com/casdoor/casdoor/pull/2085) on [casdoor/casdoor](https://github.com/casdoor/casdoor) (2 days ago)
+- [fix: hidden bug of &#34;like&#34; query](https://github.com/casdoor/casdoor/pull/2082) on [casdoor/casdoor](https://github.com/casdoor/casdoor) (3 days ago)
 - [fix: init groups modify rule with admin](https://github.com/casdoor/casdoor/pull/2054) on [casdoor/casdoor](https://github.com/casdoor/casdoor) (1 week ago)
 - [fix: fix state after mfa is enabled](https://github.com/casdoor/casdoor/pull/2050) on [casdoor/casdoor](https://github.com/casdoor/casdoor) (1 week ago)
-- [docs: update Manage Multi-Factor authentication items.md](https://github.com/casdoor/casdoor-website/pull/507) on [casdoor/casdoor-website](https://github.com/casdoor/casdoor-website) (1 week ago)
 
 #### 🌱 I’m currently learning ...
 - Learning the distribute system.
