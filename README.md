@@ -7,11 +7,11 @@
 
 #### 🔨 Check out my recent pull requests
 
-- [feat: refactor code to use responseOK everywhere](https://github.com/casdoor/casdoor/pull/2111) on [casdoor/casdoor](https://github.com/casdoor/casdoor) (2 days ago)
-- [refactor: use responseOK return frontend format json data](https://github.com/casdoor/casdoor/pull/2107) on [casdoor/casdoor](https://github.com/casdoor/casdoor) (2 days ago)
-- [feat: refactor the code to use responseOk and add response filter](https://github.com/casdoor/casdoor/pull/2098) on [casdoor/casdoor](https://github.com/casdoor/casdoor) (4 days ago)
-- [fix: check group name cannot be same as organization name](https://github.com/casdoor/casdoor/pull/2090) on [casdoor/casdoor](https://github.com/casdoor/casdoor) (5 days ago)
-- [feat: fix bug that themeEditor can not load saved theme data](https://github.com/casdoor/casdoor/pull/2085) on [casdoor/casdoor](https://github.com/casdoor/casdoor) (1 week ago)
+- [fix: fix response data assignment error in ApplicationEditPage.js](https://github.com/casdoor/casdoor/pull/2126) on [casdoor/casdoor](https://github.com/casdoor/casdoor) (1 day ago)
+- [feat: fix response data assignment error](https://github.com/casdoor/casdoor/pull/2123) on [casdoor/casdoor](https://github.com/casdoor/casdoor) (1 day ago)
+- [refactor: optimize the code to getEnforcer](https://github.com/casdoor/casdoor/pull/2120) on [casdoor/casdoor](https://github.com/casdoor/casdoor) (1 day ago)
+- [feat: refactor code to use responseOK everywhere](https://github.com/casdoor/casdoor/pull/2111) on [casdoor/casdoor](https://github.com/casdoor/casdoor) (3 days ago)
+- [refactor: use responseOK return frontend format json data](https://github.com/casdoor/casdoor/pull/2107) on [casdoor/casdoor](https://github.com/casdoor/casdoor) (3 days ago)
 
 #### 🌱 I’m currently learning ...
 - Learning the distribute system.
