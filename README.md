@@ -7,11 +7,11 @@
 
 #### 🔨 Check out my recent pull requests
 
-- [fix: fix response data assignment error in ApplicationEditPage.js](https://github.com/casdoor/casdoor/pull/2126) on [casdoor/casdoor](https://github.com/casdoor/casdoor) (1 day ago)
-- [feat: fix response data assignment error](https://github.com/casdoor/casdoor/pull/2123) on [casdoor/casdoor](https://github.com/casdoor/casdoor) (1 day ago)
-- [refactor: optimize the code to getEnforcer](https://github.com/casdoor/casdoor/pull/2120) on [casdoor/casdoor](https://github.com/casdoor/casdoor) (1 day ago)
-- [feat: refactor code to use responseOK everywhere](https://github.com/casdoor/casdoor/pull/2111) on [casdoor/casdoor](https://github.com/casdoor/casdoor) (3 days ago)
-- [refactor: use responseOK return frontend format json data](https://github.com/casdoor/casdoor/pull/2107) on [casdoor/casdoor](https://github.com/casdoor/casdoor) (3 days ago)
+- [feat: add basic enforcer manager](https://github.com/casdoor/casdoor/pull/2130) on [casdoor/casdoor](https://github.com/casdoor/casdoor) (1 day ago)
+- [fix: fix response data assignment error](https://github.com/casdoor/casdoor/pull/2129) on [casdoor/casdoor](https://github.com/casdoor/casdoor) (1 day ago)
+- [fix: fix response data assignment error in ApplicationEditPage.js](https://github.com/casdoor/casdoor/pull/2126) on [casdoor/casdoor](https://github.com/casdoor/casdoor) (2 days ago)
+- [feat: fix response data assignment error](https://github.com/casdoor/casdoor/pull/2123) on [casdoor/casdoor](https://github.com/casdoor/casdoor) (2 days ago)
+- [refactor: optimize the code to getEnforcer](https://github.com/casdoor/casdoor/pull/2120) on [casdoor/casdoor](https://github.com/casdoor/casdoor) (2 days ago)
 
 #### 🌱 I’m currently learning ...
 - Learning the distribute system.
