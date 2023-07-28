@@ -7,11 +7,11 @@
 
 #### 🔨 Check out my recent pull requests
 
-- [fix: optimize loading application](https://github.com/casdoor/casdoor/pull/2142) on [casdoor/casdoor](https://github.com/casdoor/casdoor) (1 day ago)
-- [feat: add basic enforcer manager](https://github.com/casdoor/casdoor/pull/2130) on [casdoor/casdoor](https://github.com/casdoor/casdoor) (2 days ago)
-- [fix: fix response data assignment error](https://github.com/casdoor/casdoor/pull/2129) on [casdoor/casdoor](https://github.com/casdoor/casdoor) (2 days ago)
-- [fix: fix response data assignment error in ApplicationEditPage.js](https://github.com/casdoor/casdoor/pull/2126) on [casdoor/casdoor](https://github.com/casdoor/casdoor) (3 days ago)
-- [feat: fix response data assignment error](https://github.com/casdoor/casdoor/pull/2123) on [casdoor/casdoor](https://github.com/casdoor/casdoor) (3 days ago)
+- [refactor: make hard-coded authz adapter editable](https://github.com/casdoor/casdoor/pull/2149) on [casdoor/casdoor](https://github.com/casdoor/casdoor) (1 day ago)
+- [fix: fix response data in PricingPage.js](https://github.com/casdoor/casdoor/pull/2143) on [casdoor/casdoor](https://github.com/casdoor/casdoor) (1 day ago)
+- [fix: optimize loading application](https://github.com/casdoor/casdoor/pull/2142) on [casdoor/casdoor](https://github.com/casdoor/casdoor) (2 days ago)
+- [feat: add basic enforcer manager](https://github.com/casdoor/casdoor/pull/2130) on [casdoor/casdoor](https://github.com/casdoor/casdoor) (3 days ago)
+- [fix: fix response data assignment error](https://github.com/casdoor/casdoor/pull/2129) on [casdoor/casdoor](https://github.com/casdoor/casdoor) (3 days ago)
 
 #### 🌱 I’m currently learning ...
 - Learning the distribute system.
