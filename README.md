@@ -7,11 +7,11 @@
 
 #### 🔨 Check out my recent pull requests
 
-- [refactor: make hard-coded authz adapter editable](https://github.com/casdoor/casdoor/pull/2149) on [casdoor/casdoor](https://github.com/casdoor/casdoor) (2 days ago)
-- [fix: fix response data in PricingPage.js](https://github.com/casdoor/casdoor/pull/2143) on [casdoor/casdoor](https://github.com/casdoor/casdoor) (2 days ago)
-- [fix: optimize loading application](https://github.com/casdoor/casdoor/pull/2142) on [casdoor/casdoor](https://github.com/casdoor/casdoor) (3 days ago)
-- [feat: add basic enforcer manager](https://github.com/casdoor/casdoor/pull/2130) on [casdoor/casdoor](https://github.com/casdoor/casdoor) (4 days ago)
-- [fix: fix response data assignment error](https://github.com/casdoor/casdoor/pull/2129) on [casdoor/casdoor](https://github.com/casdoor/casdoor) (4 days ago)
+- [fix: remove model in adapter page](https://github.com/casdoor/casdoor/pull/2161) on [casdoor/casdoor](https://github.com/casdoor/casdoor) (1 day ago)
+- [feat: make hard-coded authz adapter editable, rename adapter to ormer](https://github.com/casdoor/casdoor/pull/2149) on [casdoor/casdoor](https://github.com/casdoor/casdoor) (3 days ago)
+- [fix: fix response data in PricingPage.js](https://github.com/casdoor/casdoor/pull/2143) on [casdoor/casdoor](https://github.com/casdoor/casdoor) (3 days ago)
+- [fix: optimize loading application](https://github.com/casdoor/casdoor/pull/2142) on [casdoor/casdoor](https://github.com/casdoor/casdoor) (4 days ago)
+- [feat: add basic enforcer manager](https://github.com/casdoor/casdoor/pull/2130) on [casdoor/casdoor](https://github.com/casdoor/casdoor) (5 days ago)
 
 #### 🌱 I’m currently learning ...
 - Learning the distribute system.
