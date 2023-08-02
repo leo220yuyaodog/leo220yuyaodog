@@ -17,6 +17,6 @@
 - Learning the distribute system.
 - Learning [MIT6.S081](https://pdos.csail.mit.edu/6.828/2021/schedule.html)
 
-#### 📜 Check out my participating papers ...
+#### 📜 Check out my papers ...
 - [Scheduling a multi-agent flow shop with two scenarios and release dates](https://www.tandfonline.com/doi/full/10.1080/00207543.2023.2188646) has been accepted by IGPR.
 
