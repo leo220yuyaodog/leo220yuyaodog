@@ -7,11 +7,11 @@
 
 #### 🔨 Check out my recent pull requests
 
-- [feat: use role ID to search in GetPermissionsAndRolesByUser()](https://github.com/casdoor/casdoor/pull/2170) on [casdoor/casdoor](https://github.com/casdoor/casdoor) (1 day ago)
-- [fix: fix typo in RBACWithDomainsAPI.mdx](https://github.com/casbin/casbin-website-v2/pull/199) on [casbin/casbin-website-v2](https://github.com/casbin/casbin-website-v2) (3 days ago)
-- [fix: support enforcerId parameter in Enforce API](https://github.com/casdoor/casdoor/pull/2164) on [casdoor/casdoor](https://github.com/casdoor/casdoor) (4 days ago)
-- [fix: remove model in adapter page](https://github.com/casdoor/casdoor/pull/2161) on [casdoor/casdoor](https://github.com/casdoor/casdoor) (5 days ago)
-- [feat: make hard-coded authz adapter editable, rename adapter to ormer](https://github.com/casdoor/casdoor/pull/2149) on [casdoor/casdoor](https://github.com/casdoor/casdoor) (1 week ago)
+- [fix: revert adapter port vartype to int](https://github.com/casdoor/casdoor/pull/2174) on [casdoor/casdoor](https://github.com/casdoor/casdoor) (1 day ago)
+- [feat: use role ID to search in GetPermissionsAndRolesByUser()](https://github.com/casdoor/casdoor/pull/2170) on [casdoor/casdoor](https://github.com/casdoor/casdoor) (2 days ago)
+- [fix: fix typo in RBACWithDomainsAPI.mdx](https://github.com/casbin/casbin-website-v2/pull/199) on [casbin/casbin-website-v2](https://github.com/casbin/casbin-website-v2) (4 days ago)
+- [fix: support enforcerId parameter in Enforce API](https://github.com/casdoor/casdoor/pull/2164) on [casdoor/casdoor](https://github.com/casdoor/casdoor) (5 days ago)
+- [fix: remove model in adapter page](https://github.com/casdoor/casdoor/pull/2161) on [casdoor/casdoor](https://github.com/casdoor/casdoor) (6 days ago)
 
 #### 🌱 I’m currently learning ...
 - Learning the distribute system.
