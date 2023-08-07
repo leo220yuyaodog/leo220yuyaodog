@@ -7,11 +7,11 @@
 
 #### 🔨 Check out my recent pull requests
 
-- [feat: use the casbin model to store relationships between users and groups](https://github.com/casdoor/casdoor/pull/2178) on [casdoor/casdoor](https://github.com/casdoor/casdoor) (1 day ago)
-- [fix: revert adapter port vartype to int](https://github.com/casdoor/casdoor/pull/2174) on [casdoor/casdoor](https://github.com/casdoor/casdoor) (3 days ago)
-- [feat: use role ID to search in GetPermissionsAndRolesByUser()](https://github.com/casdoor/casdoor/pull/2170) on [casdoor/casdoor](https://github.com/casdoor/casdoor) (4 days ago)
-- [fix: fix typo in RBACWithDomainsAPI.mdx](https://github.com/casbin/casbin-website-v2/pull/199) on [casbin/casbin-website-v2](https://github.com/casbin/casbin-website-v2) (6 days ago)
-- [fix: support enforcerId parameter in Enforce API](https://github.com/casdoor/casdoor/pull/2164) on [casdoor/casdoor](https://github.com/casdoor/casdoor) (1 week ago)
+- [fix: use org/groupName replace groupName](https://github.com/casdoor/casdoor/pull/2180) on [casdoor/casdoor](https://github.com/casdoor/casdoor) (1 day ago)
+- [fix: rename in init.go](https://github.com/casdoor/casdoor/pull/2179) on [casdoor/casdoor](https://github.com/casdoor/casdoor) (1 day ago)
+- [feat: use the casbin model to store relationships between users and groups](https://github.com/casdoor/casdoor/pull/2178) on [casdoor/casdoor](https://github.com/casdoor/casdoor) (2 days ago)
+- [fix: revert adapter port vartype to int](https://github.com/casdoor/casdoor/pull/2174) on [casdoor/casdoor](https://github.com/casdoor/casdoor) (4 days ago)
+- [feat: use role ID to search in GetPermissionsAndRolesByUser()](https://github.com/casdoor/casdoor/pull/2170) on [casdoor/casdoor](https://github.com/casdoor/casdoor) (5 days ago)
 
 #### 🌱 I’m currently learning ...
 - Learning the distribute system.
