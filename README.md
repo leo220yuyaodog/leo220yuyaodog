@@ -7,11 +7,11 @@
 
 #### 🔨 Check out my recent pull requests
 
-- [fix: fix add provider error](https://github.com/casdoor/casdoor/pull/2184) on [casdoor/casdoor](https://github.com/casdoor/casdoor) (1 day ago)
-- [fix: use org/groupName replace groupName](https://github.com/casdoor/casdoor/pull/2180) on [casdoor/casdoor](https://github.com/casdoor/casdoor) (2 days ago)
-- [fix: rename in init.go](https://github.com/casdoor/casdoor/pull/2179) on [casdoor/casdoor](https://github.com/casdoor/casdoor) (2 days ago)
-- [feat: use the casbin model to store relationships between users and groups](https://github.com/casdoor/casdoor/pull/2178) on [casdoor/casdoor](https://github.com/casdoor/casdoor) (3 days ago)
-- [fix: revert adapter port vartype to int](https://github.com/casdoor/casdoor/pull/2174) on [casdoor/casdoor](https://github.com/casdoor/casdoor) (5 days ago)
+- [feat: save policy in adapter edit page](https://github.com/casdoor/casdoor/pull/2190) on [casdoor/casdoor](https://github.com/casdoor/casdoor) (1 day ago)
+- [fix: fix add provider error](https://github.com/casdoor/casdoor/pull/2184) on [casdoor/casdoor](https://github.com/casdoor/casdoor) (2 days ago)
+- [fix: use org/groupName replace groupName](https://github.com/casdoor/casdoor/pull/2180) on [casdoor/casdoor](https://github.com/casdoor/casdoor) (3 days ago)
+- [fix: rename in init.go](https://github.com/casdoor/casdoor/pull/2179) on [casdoor/casdoor](https://github.com/casdoor/casdoor) (3 days ago)
+- [feat: use the casbin model to store relationships between users and groups](https://github.com/casdoor/casdoor/pull/2178) on [casdoor/casdoor](https://github.com/casdoor/casdoor) (4 days ago)
 
 #### 🌱 I’m currently learning ...
 - Learning the distribute system.
