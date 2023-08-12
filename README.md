@@ -7,11 +7,11 @@
 
 #### 🔨 Check out my recent pull requests
 
-- [refactor: unify method to new ormer](https://github.com/casdoor/casdoor/pull/2195) on [casdoor/casdoor](https://github.com/casdoor/casdoor) (1 day ago)
-- [feat: save policy in adapter edit page](https://github.com/casdoor/casdoor/pull/2190) on [casdoor/casdoor](https://github.com/casdoor/casdoor) (3 days ago)
-- [fix: fix add provider error](https://github.com/casdoor/casdoor/pull/2184) on [casdoor/casdoor](https://github.com/casdoor/casdoor) (4 days ago)
-- [fix: use org/groupName replace groupName](https://github.com/casdoor/casdoor/pull/2180) on [casdoor/casdoor](https://github.com/casdoor/casdoor) (5 days ago)
-- [fix: rename in init.go](https://github.com/casdoor/casdoor/pull/2179) on [casdoor/casdoor](https://github.com/casdoor/casdoor) (5 days ago)
+- [fix: check enforcer should not be nil](https://github.com/casdoor/casdoor/pull/2199) on [casdoor/casdoor](https://github.com/casdoor/casdoor) (1 day ago)
+- [feat: support new multiple ormer](https://github.com/casdoor/casdoor/pull/2196) on [casdoor/casdoor](https://github.com/casdoor/casdoor) (1 day ago)
+- [refactor: unify method to new ormer](https://github.com/casdoor/casdoor/pull/2195) on [casdoor/casdoor](https://github.com/casdoor/casdoor) (2 days ago)
+- [feat: save policy in adapter edit page](https://github.com/casdoor/casdoor/pull/2190) on [casdoor/casdoor](https://github.com/casdoor/casdoor) (4 days ago)
+- [fix: fix add provider error](https://github.com/casdoor/casdoor/pull/2184) on [casdoor/casdoor](https://github.com/casdoor/casdoor) (5 days ago)
 
 #### 🌱 I’m currently learning ...
 - Learning the distribute system.
