@@ -7,11 +7,11 @@
 
 #### 🔨 Check out my recent pull requests
 
-- [feat: fix LDAP mobile field incorrect mapped](https://github.com/casdoor/casdoor/pull/2206) on [casdoor/casdoor](https://github.com/casdoor/casdoor) (2 days ago)
-- [fix: check enforcer should not be nil](https://github.com/casdoor/casdoor/pull/2199) on [casdoor/casdoor](https://github.com/casdoor/casdoor) (3 days ago)
-- [feat: support new multiple ormer](https://github.com/casdoor/casdoor/pull/2196) on [casdoor/casdoor](https://github.com/casdoor/casdoor) (3 days ago)
-- [refactor: unify method to new ormer](https://github.com/casdoor/casdoor/pull/2195) on [casdoor/casdoor](https://github.com/casdoor/casdoor) (4 days ago)
-- [feat: save policy in adapter edit page](https://github.com/casdoor/casdoor/pull/2190) on [casdoor/casdoor](https://github.com/casdoor/casdoor) (6 days ago)
+- [feat: improve adapter config experience and security](https://github.com/casdoor/casdoor/pull/2216) on [casdoor/casdoor](https://github.com/casdoor/casdoor) (1 day ago)
+- [docs: update adapter.md](https://github.com/casdoor/casdoor-website/pull/543) on [casdoor/casdoor-website](https://github.com/casdoor/casdoor-website) (1 day ago)
+- [feat: fix LDAP mobile field incorrect mapped](https://github.com/casdoor/casdoor/pull/2206) on [casdoor/casdoor](https://github.com/casdoor/casdoor) (3 days ago)
+- [fix: check enforcer should not be nil](https://github.com/casdoor/casdoor/pull/2199) on [casdoor/casdoor](https://github.com/casdoor/casdoor) (4 days ago)
+- [feat: support new multiple ormer](https://github.com/casdoor/casdoor/pull/2196) on [casdoor/casdoor](https://github.com/casdoor/casdoor) (4 days ago)
 
 #### 🌱 I’m currently learning ...
 - Learning the distribute system.
