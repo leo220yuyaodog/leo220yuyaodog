@@ -7,11 +7,11 @@
 
 #### 🔨 Check out my recent pull requests
 
-- [feat: support admin to enable MFA for other users](https://github.com/casdoor/casdoor/pull/2221) on [casdoor/casdoor](https://github.com/casdoor/casdoor) (2 days ago)
-- [fix: fix crash in UserEditPage.js](https://github.com/casdoor/casdoor/pull/2219) on [casdoor/casdoor](https://github.com/casdoor/casdoor) (2 days ago)
-- [feat: improve adapter config experience and security](https://github.com/casdoor/casdoor/pull/2216) on [casdoor/casdoor](https://github.com/casdoor/casdoor) (4 days ago)
-- [docs: update adapter.md](https://github.com/casdoor/casdoor-website/pull/543) on [casdoor/casdoor-website](https://github.com/casdoor/casdoor-website) (4 days ago)
-- [feat: fix LDAP mobile field incorrect mapped](https://github.com/casdoor/casdoor/pull/2206) on [casdoor/casdoor](https://github.com/casdoor/casdoor) (6 days ago)
+- [chore: put some dev dependency package to right place](https://github.com/casdoor/casdoor/pull/2232) on [casdoor/casdoor](https://github.com/casdoor/casdoor) (1 day ago)
+- [chore: fix yarn build warning](https://github.com/casdoor/casdoor/pull/2231) on [casdoor/casdoor](https://github.com/casdoor/casdoor) (1 day ago)
+- [feat: move policy table from adapter to enforcer and improve it](https://github.com/casdoor/casdoor/pull/2228) on [casdoor/casdoor](https://github.com/casdoor/casdoor) (1 day ago)
+- [feat: support admin to enable MFA for other users](https://github.com/casdoor/casdoor/pull/2221) on [casdoor/casdoor](https://github.com/casdoor/casdoor) (3 days ago)
+- [fix: fix crash in UserEditPage.js](https://github.com/casdoor/casdoor/pull/2219) on [casdoor/casdoor](https://github.com/casdoor/casdoor) (3 days ago)
 
 #### 🌱 I’m currently learning ...
 - Learning the distribute system.
