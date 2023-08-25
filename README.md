@@ -7,11 +7,11 @@
 
 #### 🔨 Check out my recent pull requests
 
-- [feat: add invitation code for signup feature](https://github.com/casdoor/casdoor/pull/2249) on [casdoor/casdoor](https://github.com/casdoor/casdoor) (1 day ago)
-- [fix: add SignupApplication and type for user synced from LDAP](https://github.com/casdoor/casdoor/pull/2240) on [casdoor/casdoor](https://github.com/casdoor/casdoor) (3 days ago)
-- [feat: fix home page](https://github.com/casdoor/casdoor/pull/2236) on [casdoor/casdoor](https://github.com/casdoor/casdoor) (5 days ago)
-- [fix: remove isGlobalAdmin field in user](https://github.com/casdoor/casdoor/pull/2235) on [casdoor/casdoor](https://github.com/casdoor/casdoor) (5 days ago)
-- [chore: put some dev dependency package to right place](https://github.com/casdoor/casdoor/pull/2232) on [casdoor/casdoor](https://github.com/casdoor/casdoor) (6 days ago)
+- [docs: add invitation code docs](https://github.com/casdoor/casdoor-website/pull/554) on [casdoor/casdoor-website](https://github.com/casdoor/casdoor-website) (1 day ago)
+- [feat: add invitation code for signup feature](https://github.com/casdoor/casdoor/pull/2249) on [casdoor/casdoor](https://github.com/casdoor/casdoor) (2 days ago)
+- [fix: add SignupApplication and type for user synced from LDAP](https://github.com/casdoor/casdoor/pull/2240) on [casdoor/casdoor](https://github.com/casdoor/casdoor) (4 days ago)
+- [feat: fix home page](https://github.com/casdoor/casdoor/pull/2236) on [casdoor/casdoor](https://github.com/casdoor/casdoor) (6 days ago)
+- [fix: remove isGlobalAdmin field in user](https://github.com/casdoor/casdoor/pull/2235) on [casdoor/casdoor](https://github.com/casdoor/casdoor) (6 days ago)
 
 #### 🌱 I’m currently learning ...
 - Learning the distribute system.
