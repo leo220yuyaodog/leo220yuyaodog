@@ -6,10 +6,10 @@
 
 #### 🔨 Check out my recent pull requests
 
-- [feat: password and invitation code verification rules](https://github.com/casdoor/casdoor/pull/2258) on [casdoor/casdoor](https://github.com/casdoor/casdoor) (1 day ago)
-- [docs: add invitation code docs](https://github.com/casdoor/casdoor-website/pull/554) on [casdoor/casdoor-website](https://github.com/casdoor/casdoor-website) (2 days ago)
-- [feat: add invitation code for signup feature](https://github.com/casdoor/casdoor/pull/2249) on [casdoor/casdoor](https://github.com/casdoor/casdoor) (3 days ago)
-- [fix: add SignupApplication and type for user synced from LDAP](https://github.com/casdoor/casdoor/pull/2240) on [casdoor/casdoor](https://github.com/casdoor/casdoor) (5 days ago)
+- [feat: password and invitation code verification rules](https://github.com/casdoor/casdoor/pull/2258) on [casdoor/casdoor](https://github.com/casdoor/casdoor) (2 days ago)
+- [docs: add invitation code docs](https://github.com/casdoor/casdoor-website/pull/554) on [casdoor/casdoor-website](https://github.com/casdoor/casdoor-website) (3 days ago)
+- [feat: add invitation code for signup feature](https://github.com/casdoor/casdoor/pull/2249) on [casdoor/casdoor](https://github.com/casdoor/casdoor) (4 days ago)
+- [fix: add SignupApplication and type for user synced from LDAP](https://github.com/casdoor/casdoor/pull/2240) on [casdoor/casdoor](https://github.com/casdoor/casdoor) (6 days ago)
 - [feat: fix home page](https://github.com/casdoor/casdoor/pull/2236) on [casdoor/casdoor](https://github.com/casdoor/casdoor) (1 week ago)
 
 #### 🌱 I’m currently learning ...
