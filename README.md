@@ -6,11 +6,11 @@
 
 #### 🔨 Check out my recent pull requests
 
-- [feat: add sdk for web front-only app](https://github.com/casdoor/casdoor-js-sdk/pull/47) on [casdoor/casdoor-js-sdk](https://github.com/casdoor/casdoor-js-sdk) (5 days ago)
-- [feat: allow cors for userinfo api in oidc](https://github.com/casdoor/casdoor/pull/2313) on [casdoor/casdoor](https://github.com/casdoor/casdoor) (5 days ago)
-- [feat: add firebase docs](https://github.com/casdoor/casdoor-website/pull/558) on [casdoor/casdoor-website](https://github.com/casdoor/casdoor-website) (1 week ago)
-- [feat: add firebase connect casdoor example](https://github.com/casdoor/casdoor-firebase-example/pull/2) on [casdoor/casdoor-firebase-example](https://github.com/casdoor/casdoor-firebase-example) (1 week ago)
-- [feat: password and invitation code verification rules](https://github.com/casdoor/casdoor/pull/2258) on [casdoor/casdoor](https://github.com/casdoor/casdoor) (2 weeks ago)
+- [feat: add sdk for web front-only app](https://github.com/casdoor/casdoor-js-sdk/pull/47) on [casdoor/casdoor-js-sdk](https://github.com/casdoor/casdoor-js-sdk) (1 week ago)
+- [feat: allow CORS for UserInfo API in OIDC](https://github.com/casdoor/casdoor/pull/2313) on [casdoor/casdoor](https://github.com/casdoor/casdoor) (1 week ago)
+- [feat: add firebase docs](https://github.com/casdoor/casdoor-website/pull/558) on [casdoor/casdoor-website](https://github.com/casdoor/casdoor-website) (2 weeks ago)
+- [feat: add firebase connect casdoor example](https://github.com/casdoor/casdoor-firebase-example/pull/2) on [casdoor/casdoor-firebase-example](https://github.com/casdoor/casdoor-firebase-example) (2 weeks ago)
+- [feat: password and invitation code verification rules](https://github.com/casdoor/casdoor/pull/2258) on [casdoor/casdoor](https://github.com/casdoor/casdoor) (3 weeks ago)
 
 #### 🌱 I’m currently learning ...
 - Learning the distribute system.
