@@ -6,7 +6,7 @@
 
 #### 🔨 Check out my recent pull requests
 
-- [feat: restrict the model of application type resource permission](https://github.com/casdoor/casdoor/pull/2394) on [casdoor/casdoor](https://github.com/casdoor/casdoor) (4 days ago)
+- [feat: restrict the model of application type resource permission](https://github.com/casdoor/casdoor/pull/2394) on [casdoor/casdoor](https://github.com/casdoor/casdoor) (5 days ago)
 - [feat: add login example](https://github.com/casdoor/casdoor-react-only-example/pull/2) on [casdoor/casdoor-react-only-example](https://github.com/casdoor/casdoor-react-only-example) (4 weeks ago)
 - [feat: add sdk for web front-only app](https://github.com/casdoor/casdoor-js-sdk/pull/47) on [casdoor/casdoor-js-sdk](https://github.com/casdoor/casdoor-js-sdk) (1 month ago)
 - [feat: allow CORS for UserInfo API in OIDC](https://github.com/casdoor/casdoor/pull/2313) on [casdoor/casdoor](https://github.com/casdoor/casdoor) (1 month ago)
