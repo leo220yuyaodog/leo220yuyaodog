@@ -10,7 +10,7 @@
 - [feat: add login example](https://github.com/casdoor/casdoor-react-only-example/pull/2) on [casdoor/casdoor-react-only-example](https://github.com/casdoor/casdoor-react-only-example) (3 months ago)
 - [feat: add sdk for web front-only app](https://github.com/casdoor/casdoor-js-sdk/pull/47) on [casdoor/casdoor-js-sdk](https://github.com/casdoor/casdoor-js-sdk) (3 months ago)
 - [feat: allow CORS for UserInfo API in OIDC](https://github.com/casbin/casdoor/pull/2313) on [casbin/casdoor](https://github.com/casbin/casdoor) (3 months ago)
-- [feat: add firebase docs](https://github.com/casdoor/casdoor-website/pull/558) on [casdoor/casdoor-website](https://github.com/casdoor/casdoor-website) (3 months ago)
+- [feat: add firebase docs](https://github.com/casdoor/casdoor-website/pull/558) on [casdoor/casdoor-website](https://github.com/casdoor/casdoor-website) (4 months ago)
 
 #### 🌱 I’m currently learning ...
 - Learning the distribute system.
