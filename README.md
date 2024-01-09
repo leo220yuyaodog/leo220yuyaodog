@@ -6,11 +6,11 @@
 
 #### 🔨 Check out my recent pull requests
 
-- [feat: refactor guacamole util and add session page](https://github.com/casbin/casvisor/pull/24) on [casbin/casvisor](https://github.com/casbin/casvisor) (1 day ago)
-- [feat: upgrade casdoor-js-sdk and casdoor-go-sdk](https://github.com/casbin/casvisor/pull/23) on [casbin/casvisor](https://github.com/casbin/casvisor) (5 days ago)
-- [feat: add users with correct application](https://github.com/casbin/casdoor/pull/2570) on [casbin/casdoor](https://github.com/casbin/casdoor) (6 days ago)
-- [feat: restrict the model of application type resource permission](https://github.com/casbin/casdoor/pull/2394) on [casbin/casdoor](https://github.com/casbin/casdoor) (2 months ago)
-- [feat: add login example](https://github.com/casdoor/casdoor-react-only-example/pull/2) on [casdoor/casdoor-react-only-example](https://github.com/casdoor/casdoor-react-only-example) (3 months ago)
+- [feat: support admin forcibly close rdp connection](https://github.com/casbin/casvisor/pull/29) on [casbin/casvisor](https://github.com/casbin/casvisor) (1 day ago)
+- [feat: refactor guacamole util and add session page](https://github.com/casbin/casvisor/pull/24) on [casbin/casvisor](https://github.com/casbin/casvisor) (2 days ago)
+- [feat: upgrade casdoor-js-sdk and casdoor-go-sdk](https://github.com/casbin/casvisor/pull/23) on [casbin/casvisor](https://github.com/casbin/casvisor) (6 days ago)
+- [feat: add users with correct application](https://github.com/casbin/casdoor/pull/2570) on [casbin/casdoor](https://github.com/casbin/casdoor) (1 week ago)
+- [feat: restrict the model of application type resource permission](https://github.com/casbin/casdoor/pull/2394) on [casbin/casdoor](https://github.com/casbin/casdoor) (3 months ago)
 
 #### 🌱 I’m currently learning ...
 - Learning the distribute system.
