@@ -6,10 +6,10 @@
 
 #### 🔨 Check out my recent pull requests
 
-- [fix: fix sdk can not add record](https://github.com/casbin/casvisor/pull/37) on [casbin/casvisor](https://github.com/casbin/casvisor) (1 day ago)
-- [fix: show wrong list after deleting data](https://github.com/casbin/casvisor/pull/36) on [casbin/casvisor](https://github.com/casbin/casvisor) (3 days ago)
-- [fix: remove unused code](https://github.com/casbin/casvisor/pull/35) on [casbin/casvisor](https://github.com/casbin/casvisor) (4 days ago)
-- [feat: add demo mode](https://github.com/casbin/casvisor/pull/30) on [casbin/casvisor](https://github.com/casbin/casvisor) (6 days ago)
+- [fix: fix sdk can not add record](https://github.com/casbin/casvisor/pull/37) on [casbin/casvisor](https://github.com/casbin/casvisor) (2 days ago)
+- [fix: show wrong list after deleting data](https://github.com/casbin/casvisor/pull/36) on [casbin/casvisor](https://github.com/casbin/casvisor) (4 days ago)
+- [fix: remove unused code](https://github.com/casbin/casvisor/pull/35) on [casbin/casvisor](https://github.com/casbin/casvisor) (5 days ago)
+- [feat: add demo mode](https://github.com/casbin/casvisor/pull/30) on [casbin/casvisor](https://github.com/casbin/casvisor) (1 week ago)
 - [chore: add localhost link in white list](https://github.com/casbin/casvisor-website/pull/9) on [casbin/casvisor-website](https://github.com/casbin/casvisor-website) (1 week ago)
 
 #### 🌱 I’m currently learning ...
