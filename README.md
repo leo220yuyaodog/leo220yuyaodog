@@ -6,11 +6,11 @@
 
 #### 🔨 Check out my recent pull requests
 
-- [fix: fix sdk can not add record](https://github.com/casbin/casvisor/pull/37) on [casbin/casvisor](https://github.com/casbin/casvisor) (2 days ago)
-- [fix: show wrong list after deleting data](https://github.com/casbin/casvisor/pull/36) on [casbin/casvisor](https://github.com/casbin/casvisor) (4 days ago)
-- [fix: remove unused code](https://github.com/casbin/casvisor/pull/35) on [casbin/casvisor](https://github.com/casbin/casvisor) (5 days ago)
-- [feat: add demo mode](https://github.com/casbin/casvisor/pull/30) on [casbin/casvisor](https://github.com/casbin/casvisor) (1 week ago)
-- [chore: add localhost link in white list](https://github.com/casbin/casvisor-website/pull/9) on [casbin/casvisor-website](https://github.com/casbin/casvisor-website) (1 week ago)
+- [feat: handle websocket error](https://github.com/casbin/casvisor/pull/42) on [casbin/casvisor](https://github.com/casbin/casvisor) (1 day ago)
+- [fix: add ticker clean unused session regularly](https://github.com/casbin/casvisor/pull/41) on [casbin/casvisor](https://github.com/casbin/casvisor) (1 day ago)
+- [fix: update field connectedId of session](https://github.com/casbin/casvisor/pull/40) on [casbin/casvisor](https://github.com/casbin/casvisor) (1 day ago)
+- [fix: use form pass params in POST API](https://github.com/casbin/casvisor/pull/39) on [casbin/casvisor](https://github.com/casbin/casvisor) (1 day ago)
+- [fix: fix some known bugs](https://github.com/casbin/casvisor/pull/38) on [casbin/casvisor](https://github.com/casbin/casvisor) (1 day ago)
 
 #### 🌱 I’m currently learning ...
 - Learning the distribute system.
