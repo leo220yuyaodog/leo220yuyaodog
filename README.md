@@ -6,7 +6,7 @@
 
 #### 🔨 Check out my recent pull requests
 
-- [feat: improve MFA UI and jump URL](https://github.com/casbin/casdoor/pull/2647) on [casbin/casdoor](https://github.com/casbin/casdoor) (2 days ago)
+- [feat: improve MFA UI and jump URL](https://github.com/casbin/casdoor/pull/2647) on [casbin/casdoor](https://github.com/casbin/casdoor) (3 days ago)
 - [fix: fix soft router](https://github.com/casbin/casvisor/pull/50) on [casbin/casvisor](https://github.com/casbin/casvisor) (1 week ago)
 - [fix: default expand nodes](https://github.com/casbin/casvisor/pull/49) on [casbin/casvisor](https://github.com/casbin/casvisor) (1 week ago)
 - [refactor: refactor menu and layout](https://github.com/casbin/casvisor/pull/48) on [casbin/casvisor](https://github.com/casbin/casvisor) (1 week ago)
