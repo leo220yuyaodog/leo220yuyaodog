@@ -6,11 +6,11 @@
 
 #### 🔨 Check out my recent pull requests
 
-- [feat: fix image can not run](https://github.com/casbin/casvisor/pull/62) on [casbin/casvisor](https://github.com/casbin/casvisor) (1 day ago)
-- [feat: fix bug in guacd commands of Docker image](https://github.com/casbin/casvisor/pull/61) on [casbin/casvisor](https://github.com/casbin/casvisor) (2 days ago)
-- [feat: Add guacd in in ALLINONE image](https://github.com/casbin/casvisor/pull/60) on [casbin/casvisor](https://github.com/casbin/casvisor) (3 days ago)
-- [feat: fix issue that admin cannot enable MFA for user](https://github.com/casdoor/casdoor/pull/2702) on [casdoor/casdoor](https://github.com/casdoor/casdoor) (4 days ago)
-- [feat: fix failed to run InitAuthz in docker](https://github.com/casbin/casvisor/pull/59) on [casbin/casvisor](https://github.com/casbin/casvisor) (4 days ago)
+- [feat: fix CI bug of not triggering Docker push](https://github.com/casvisor/guacd/pull/2) on [casvisor/guacd](https://github.com/casvisor/guacd) (1 day ago)
+- [feat: add Dockerfile and CI](https://github.com/casvisor/guacd/pull/1) on [casvisor/guacd](https://github.com/casvisor/guacd) (1 day ago)
+- [feat: fix Docker image bug](https://github.com/casbin/casvisor/pull/62) on [casbin/casvisor](https://github.com/casbin/casvisor) (2 days ago)
+- [feat: fix bug in guacd commands of Docker image](https://github.com/casbin/casvisor/pull/61) on [casbin/casvisor](https://github.com/casbin/casvisor) (3 days ago)
+- [feat: Add guacd in in ALLINONE image](https://github.com/casbin/casvisor/pull/60) on [casbin/casvisor](https://github.com/casbin/casvisor) (4 days ago)
 
 #### 🌱 I’m currently learning ...
 - Learning the distribute system.
