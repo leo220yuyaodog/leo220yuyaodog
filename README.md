@@ -6,11 +6,11 @@
 
 #### 🔨 Check out my recent pull requests
 
-- [feat: fix CI bug of not triggering Docker push](https://github.com/casvisor/guacd/pull/2) on [casvisor/guacd](https://github.com/casvisor/guacd) (1 day ago)
-- [feat: add Dockerfile and CI](https://github.com/casvisor/guacd/pull/1) on [casvisor/guacd](https://github.com/casvisor/guacd) (1 day ago)
-- [feat: fix Docker image bug](https://github.com/casbin/casvisor/pull/62) on [casbin/casvisor](https://github.com/casbin/casvisor) (2 days ago)
-- [feat: fix bug in guacd commands of Docker image](https://github.com/casbin/casvisor/pull/61) on [casbin/casvisor](https://github.com/casbin/casvisor) (3 days ago)
-- [feat: Add guacd in in ALLINONE image](https://github.com/casbin/casvisor/pull/60) on [casbin/casvisor](https://github.com/casbin/casvisor) (4 days ago)
+- [chore: fix Generate PDF job](https://github.com/casbin/casvisor-website/pull/11) on [casbin/casvisor-website](https://github.com/casbin/casvisor-website) (1 day ago)
+- [docs: add try-with-docker document](https://github.com/casbin/casvisor-website/pull/10) on [casbin/casvisor-website](https://github.com/casbin/casvisor-website) (1 day ago)
+- [feat: fix CI bug of not triggering Docker push](https://github.com/casvisor/guacd/pull/2) on [casvisor/guacd](https://github.com/casvisor/guacd) (2 days ago)
+- [feat: add Dockerfile and CI](https://github.com/casvisor/guacd/pull/1) on [casvisor/guacd](https://github.com/casvisor/guacd) (2 days ago)
+- [feat: fix Docker image bug](https://github.com/casbin/casvisor/pull/62) on [casbin/casvisor](https://github.com/casbin/casvisor) (3 days ago)
 
 #### 🌱 I’m currently learning ...
 - Learning the distribute system.
