@@ -3,15 +3,14 @@
 ### Hi there, I'm Yuyaodong(于耀东)👋
 #### 🔭 I’m currently working on ...
 - [Casdoor](https://github.com/casdoor)
-- [Casvisor](https://github.com/casbin/casvisor)
 
 #### 🔨 Check out my recent pull requests
 
+- [feat: fix fullScreen scale bug](https://github.com/casbin/casvisor/pull/65) on [casbin/casvisor](https://github.com/casbin/casvisor) (today)
 - [chore: fix Generate PDF job](https://github.com/casbin/casvisor-website/pull/11) on [casbin/casvisor-website](https://github.com/casbin/casvisor-website) (4 days ago)
 - [docs: add try-with-docker document](https://github.com/casbin/casvisor-website/pull/10) on [casbin/casvisor-website](https://github.com/casbin/casvisor-website) (4 days ago)
 - [feat: fix CI bug of not triggering Docker push](https://github.com/casvisor/guacd/pull/2) on [casvisor/guacd](https://github.com/casvisor/guacd) (5 days ago)
 - [feat: add Dockerfile and CI](https://github.com/casvisor/guacd/pull/1) on [casvisor/guacd](https://github.com/casvisor/guacd) (5 days ago)
-- [feat: fix Docker image bug](https://github.com/casbin/casvisor/pull/62) on [casbin/casvisor](https://github.com/casbin/casvisor) (6 days ago)
 
 #### 🌱 I’m currently learning ...
 - Learning the distribute system.
