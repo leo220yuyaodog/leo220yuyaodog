@@ -9,8 +9,8 @@
 - [feat: fix fullScreen scale bug](https://github.com/casbin/casvisor/pull/65) on [casbin/casvisor](https://github.com/casbin/casvisor) (1 week ago)
 - [chore: fix Generate PDF job](https://github.com/casbin/casvisor-website/pull/11) on [casbin/casvisor-website](https://github.com/casbin/casvisor-website) (1 week ago)
 - [docs: add try-with-docker document](https://github.com/casbin/casvisor-website/pull/10) on [casbin/casvisor-website](https://github.com/casbin/casvisor-website) (1 week ago)
-- [feat: fix CI bug of not triggering Docker push](https://github.com/casvisor/guacd/pull/2) on [casvisor/guacd](https://github.com/casvisor/guacd) (1 week ago)
-- [feat: add Dockerfile and CI](https://github.com/casvisor/guacd/pull/1) on [casvisor/guacd](https://github.com/casvisor/guacd) (1 week ago)
+- [feat: fix CI bug of not triggering Docker push](https://github.com/casvisor/guacd/pull/2) on [casvisor/guacd](https://github.com/casvisor/guacd) (2 weeks ago)
+- [feat: add Dockerfile and CI](https://github.com/casvisor/guacd/pull/1) on [casvisor/guacd](https://github.com/casvisor/guacd) (2 weeks ago)
 
 #### 🌱 I’m currently learning ...
 - Learning the distribute system.
