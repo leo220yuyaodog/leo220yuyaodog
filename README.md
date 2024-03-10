@@ -6,9 +6,9 @@
 
 #### 🔨 Check out my recent pull requests
 
-- [feat: integrate dbgate to manage databases](https://github.com/casbin/casvisor/pull/68) on [casbin/casvisor](https://github.com/casbin/casvisor) (2 days ago)
-- [fix: fix bugs](https://github.com/casbin/casvisor/pull/67) on [casbin/casvisor](https://github.com/casbin/casvisor) (5 days ago)
-- [feat: improve and add database setting in asset pages](https://github.com/casbin/casvisor/pull/66) on [casbin/casvisor](https://github.com/casbin/casvisor) (6 days ago)
+- [feat: integrate dbgate to manage databases](https://github.com/casbin/casvisor/pull/68) on [casbin/casvisor](https://github.com/casbin/casvisor) (3 days ago)
+- [fix: fix bugs](https://github.com/casbin/casvisor/pull/67) on [casbin/casvisor](https://github.com/casbin/casvisor) (6 days ago)
+- [feat: improve and add database setting in asset pages](https://github.com/casbin/casvisor/pull/66) on [casbin/casvisor](https://github.com/casbin/casvisor) (1 week ago)
 - [feat: fix fullScreen scale bug](https://github.com/casbin/casvisor/pull/65) on [casbin/casvisor](https://github.com/casbin/casvisor) (2 weeks ago)
 - [chore: fix Generate PDF job](https://github.com/casbin/casvisor-website/pull/11) on [casbin/casvisor-website](https://github.com/casbin/casvisor-website) (2 weeks ago)
 
