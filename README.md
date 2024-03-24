@@ -6,11 +6,11 @@
 
 #### 🔨 Check out my recent pull requests
 
-- [feat: serve dbgate frontend static files](https://github.com/casbin/casvisor/pull/72) on [casbin/casvisor](https://github.com/casbin/casvisor) (2 days ago)
-- [feat: modify config in production mode](https://github.com/casvisor/dbgate/pull/5) on [casvisor/dbgate](https://github.com/casvisor/dbgate) (2 days ago)
-- [feat: add default user mapping in custom oauth2 provider](https://github.com/casdoor/casdoor/pull/2819) on [casdoor/casdoor](https://github.com/casdoor/casdoor) (5 days ago)
+- [feat: refactor config](https://github.com/casvisor/dbgate/pull/6) on [casvisor/dbgate](https://github.com/casvisor/dbgate) (1 day ago)
+- [feat: serve dbgate frontend static files](https://github.com/casvisor/casvisor/pull/72) on [casvisor/casvisor](https://github.com/casvisor/casvisor) (3 days ago)
+- [feat: modify config in production mode](https://github.com/casvisor/dbgate/pull/5) on [casvisor/dbgate](https://github.com/casvisor/dbgate) (3 days ago)
+- [feat: add default user mapping in custom oauth2 provider](https://github.com/casdoor/casdoor/pull/2819) on [casdoor/casdoor](https://github.com/casdoor/casdoor) (6 days ago)
 - [docs: add database.md](https://github.com/casbin/casvisor-website/pull/12) on [casbin/casvisor-website](https://github.com/casbin/casvisor-website) (1 week ago)
-- [fix:  adapt docker-compose.yml  to new image](https://github.com/casbin/casvisor/pull/71) on [casbin/casvisor](https://github.com/casbin/casvisor) (1 week ago)
 
 #### 🌱 I’m currently learning ...
 - Learning the distribute system.
