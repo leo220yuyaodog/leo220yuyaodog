@@ -6,8 +6,8 @@
 
 #### 🔨 Check out my recent pull requests
 
-- [docs: add command docs](https://github.com/casbin/casvisor-website/pull/16) on [casbin/casvisor-website](https://github.com/casbin/casvisor-website) (4 days ago)
-- [feat: improve commandEditPage UI](https://github.com/casvisor/casvisor/pull/84) on [casvisor/casvisor](https://github.com/casvisor/casvisor) (6 days ago)
+- [docs: add command docs](https://github.com/casbin/casvisor-website/pull/16) on [casbin/casvisor-website](https://github.com/casbin/casvisor-website) (5 days ago)
+- [feat: improve commandEditPage UI](https://github.com/casvisor/casvisor/pull/84) on [casvisor/casvisor](https://github.com/casvisor/casvisor) (1 week ago)
 - [feat: executing commands on multiple machines](https://github.com/casvisor/casvisor/pull/79) on [casvisor/casvisor](https://github.com/casvisor/casvisor) (1 week ago)
 - [docs: add tips about nginx reverse proxy](https://github.com/casbin/casvisor-website/pull/15) on [casbin/casvisor-website](https://github.com/casbin/casvisor-website) (2 weeks ago)
 - [docs: add connect intranet asset docs](https://github.com/casbin/casvisor-website/pull/14) on [casbin/casvisor-website](https://github.com/casbin/casvisor-website) (2 weeks ago)
