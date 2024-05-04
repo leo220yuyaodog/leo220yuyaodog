@@ -6,7 +6,7 @@
 
 #### 🔨 Check out my recent pull requests
 
-- [feat: improve command terminal UI](https://github.com/casvisor/casvisor/pull/85) on [casvisor/casvisor](https://github.com/casvisor/casvisor) (2 days ago)
+- [feat: improve command terminal UI](https://github.com/casvisor/casvisor/pull/85) on [casvisor/casvisor](https://github.com/casvisor/casvisor) (3 days ago)
 - [docs: add command docs](https://github.com/casbin/casvisor-website/pull/16) on [casbin/casvisor-website](https://github.com/casbin/casvisor-website) (1 week ago)
 - [feat: improve commandEditPage UI](https://github.com/casvisor/casvisor/pull/84) on [casvisor/casvisor](https://github.com/casvisor/casvisor) (2 weeks ago)
 - [feat: executing commands on multiple machines](https://github.com/casvisor/casvisor/pull/79) on [casvisor/casvisor](https://github.com/casvisor/casvisor) (2 weeks ago)
