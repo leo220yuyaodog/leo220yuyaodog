@@ -6,11 +6,11 @@
 
 #### 🔨 Check out my recent pull requests
 
-- [feat: improve command terminal UI](https://github.com/casvisor/casvisor/pull/85) on [casvisor/casvisor](https://github.com/casvisor/casvisor) (4 days ago)
+- [feat: file manager](https://github.com/casvisor/casvisor/pull/86) on [casvisor/casvisor](https://github.com/casvisor/casvisor) (1 day ago)
+- [feat: improve command terminal UI](https://github.com/casvisor/casvisor/pull/85) on [casvisor/casvisor](https://github.com/casvisor/casvisor) (5 days ago)
 - [docs: add command docs](https://github.com/casbin/casvisor-website/pull/16) on [casbin/casvisor-website](https://github.com/casbin/casvisor-website) (2 weeks ago)
 - [feat: improve commandEditPage UI](https://github.com/casvisor/casvisor/pull/84) on [casvisor/casvisor](https://github.com/casvisor/casvisor) (2 weeks ago)
 - [feat: executing commands on multiple machines](https://github.com/casvisor/casvisor/pull/79) on [casvisor/casvisor](https://github.com/casvisor/casvisor) (2 weeks ago)
-- [docs: add tips about nginx reverse proxy](https://github.com/casbin/casvisor-website/pull/15) on [casbin/casvisor-website](https://github.com/casbin/casvisor-website) (3 weeks ago)
 
 #### 🌱 I’m currently learning ...
 - Learning the distribute system.
