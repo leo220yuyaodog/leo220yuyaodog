@@ -9,7 +9,7 @@
 - [feat: translate i18n](https://github.com/casvisor/casvisor/pull/92) on [casvisor/casvisor](https://github.com/casvisor/casvisor) (1 week ago)
 - [feat: collect machine CPU, memory, disk info by SSH](https://github.com/casvisor/casvisor/pull/91) on [casvisor/casvisor](https://github.com/casvisor/casvisor) (1 week ago)
 - [feat: add file manager](https://github.com/casvisor/casvisor/pull/86) on [casvisor/casvisor](https://github.com/casvisor/casvisor) (2 weeks ago)
-- [feat: improve command terminal UI](https://github.com/casvisor/casvisor/pull/85) on [casvisor/casvisor](https://github.com/casvisor/casvisor) (2 weeks ago)
+- [feat: improve command terminal UI](https://github.com/casvisor/casvisor/pull/85) on [casvisor/casvisor](https://github.com/casvisor/casvisor) (3 weeks ago)
 - [docs: add command docs](https://github.com/casbin/casvisor-website/pull/16) on [casbin/casvisor-website](https://github.com/casbin/casvisor-website) (1 month ago)
 
 #### 🌱 I’m currently learning ...
