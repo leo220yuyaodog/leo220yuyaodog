@@ -6,11 +6,11 @@
 
 #### 🔨 Check out my recent pull requests
 
-- [feat: translate i18n](https://github.com/casvisor/casvisor/pull/92) on [casvisor/casvisor](https://github.com/casvisor/casvisor) (2 weeks ago)
+- [feat: fix RDP connect button disabled](https://github.com/casvisor/casvisor/pull/102) on [casvisor/casvisor](https://github.com/casvisor/casvisor) (1 day ago)
+- [feat: add asset status](https://github.com/casvisor/casvisor/pull/101) on [casvisor/casvisor](https://github.com/casvisor/casvisor) (1 day ago)
+- [feat: translate i18n](https://github.com/casvisor/casvisor/pull/92) on [casvisor/casvisor](https://github.com/casvisor/casvisor) (3 weeks ago)
 - [feat: collect machine CPU, memory, disk info by SSH](https://github.com/casvisor/casvisor/pull/91) on [casvisor/casvisor](https://github.com/casvisor/casvisor) (3 weeks ago)
 - [feat: add file manager](https://github.com/casvisor/casvisor/pull/86) on [casvisor/casvisor](https://github.com/casvisor/casvisor) (4 weeks ago)
-- [feat: improve command terminal UI](https://github.com/casvisor/casvisor/pull/85) on [casvisor/casvisor](https://github.com/casvisor/casvisor) (1 month ago)
-- [docs: add command docs](https://github.com/casbin/casvisor-website/pull/16) on [casbin/casvisor-website](https://github.com/casbin/casvisor-website) (1 month ago)
 
 #### 🌱 I’m currently learning ...
 - Learning the distribute system.
