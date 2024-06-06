@@ -6,8 +6,8 @@
 
 #### 🔨 Check out my recent pull requests
 
-- [feat: fix RDP connect button disabled](https://github.com/casvisor/casvisor/pull/102) on [casvisor/casvisor](https://github.com/casvisor/casvisor) (3 days ago)
-- [feat: add asset status](https://github.com/casvisor/casvisor/pull/101) on [casvisor/casvisor](https://github.com/casvisor/casvisor) (3 days ago)
+- [feat: fix RDP connect button disabled](https://github.com/casvisor/casvisor/pull/102) on [casvisor/casvisor](https://github.com/casvisor/casvisor) (4 days ago)
+- [feat: add asset status](https://github.com/casvisor/casvisor/pull/101) on [casvisor/casvisor](https://github.com/casvisor/casvisor) (4 days ago)
 - [feat: translate i18n](https://github.com/casvisor/casvisor/pull/92) on [casvisor/casvisor](https://github.com/casvisor/casvisor) (3 weeks ago)
 - [feat: collect machine CPU, memory, disk info by SSH](https://github.com/casvisor/casvisor/pull/91) on [casvisor/casvisor](https://github.com/casvisor/casvisor) (3 weeks ago)
 - [feat: add file manager](https://github.com/casvisor/casvisor/pull/86) on [casvisor/casvisor](https://github.com/casvisor/casvisor) (1 month ago)
