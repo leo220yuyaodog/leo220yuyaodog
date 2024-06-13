@@ -6,7 +6,7 @@
 
 #### 🔨 Check out my recent pull requests
 
-- [feat: improve asset status detection](https://github.com/casvisor/casvisor/pull/105) on [casvisor/casvisor](https://github.com/casvisor/casvisor) (2 days ago)
+- [feat: improve asset status detection](https://github.com/casvisor/casvisor/pull/105) on [casvisor/casvisor](https://github.com/casvisor/casvisor) (3 days ago)
 - [feat: fix RDP connect button disabled](https://github.com/casvisor/casvisor/pull/102) on [casvisor/casvisor](https://github.com/casvisor/casvisor) (1 week ago)
 - [feat: add asset status](https://github.com/casvisor/casvisor/pull/101) on [casvisor/casvisor](https://github.com/casvisor/casvisor) (1 week ago)
 - [feat: translate i18n](https://github.com/casvisor/casvisor/pull/92) on [casvisor/casvisor](https://github.com/casvisor/casvisor) (1 month ago)
